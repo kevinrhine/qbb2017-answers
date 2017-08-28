@@ -98,3 +98,4 @@ Chromosome: 3R Strand: - Start: 2554470 End: 2555023 Length: 553
 Chromosome: 3R Strand: - Start: 2554124 End: 2554398 Length: 274
 Chromosome: 3R Strand: - Start: 2554127 End: 2554398 Length: 271
 Chromosome: 3R Strand: - Start: 2554124 End: 2554126 Length: 2
+1137.77
