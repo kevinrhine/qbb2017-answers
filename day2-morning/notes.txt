@@ -1,0 +1,59 @@
++--------------------------+
+|                          |
+| ~~~ 1.0 COMMAND LINE ~~~ |
+|                          |
++--------------------------+
+- chmod changes permissions
+	- "chmod +x <file>" changes file to executable
+- !# changes script/running mode
+    - !#/bin/bash -- bash
+	- !#/usr/bin/env python -- python
+- $ specifies a variable
+
++--------------------+
+|                    |
+| ~~~ 2.0 PYTHON ~~~ |
+|                    |
++--------------------+
+- sys.argv command (takes arguments)
+    - import sys to add basic module functionality
+	- can insert {0} as a token to call arguments later on
+	- add method ".format( sys.argv[1])" to refer to second "[1]" argument on command line
+	- if you need to refer to a file, use sys.argv instead to reference file from command line
+
+-----------------------------
+ +++ 2.1 Types in Python +++
+-----------------------------
+
+- types of stuff in python
+	- integer: a number (no decimal)
+	- real: a float (number + decimal)
+	- string: words, etc.
+	- bool: true/false/operators
+	- lists:
+		- normal list is mutable, can be changed, are in square brackets
+		- tuples are not mutable, cannot be changes, are in parentheses
+
+- operators
+	- "=" binds another variable to an existing variable or object
+		- e.g. setting a_list equal to a list and then setting another_list equal to a_list doesn't create a new list!
+		- it just sets two variables equal to the same list
+		- so changes to one list affect both lists
+		- ONLY WORKS WITH OBJECTS THAT ARE MUTABLE (e.g. dictionaries, classes, and lists)
+		
+-----------------------------		
+ +++ 2.2 Files in Python +++
+-----------------------------
+
+- can open a function with open( file path )
+- in general: DO NOT SPECIFY A SPECIFIC FILE IN PYTHON
+	- use sys to make command line do it (see 1.0)
+- sys.stdin.readline() can be used as a pipe for running a certain function on a certain file
+	- not good for doing multiple files
+- can code file so that it takes input in either way (with or without pipe (if statement))
+
+--------------------------------------
+ +++ 2.3 File Iteration in Python +++
+--------------------------------------
+
+
