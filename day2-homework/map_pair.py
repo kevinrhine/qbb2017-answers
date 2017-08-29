@@ -1,0 +1,32 @@
+#!/usr/bin/env python
+
+import sys
+
+# this script takes TWO inputs:
+## 1) the output of a UNIPROT file being run through uniprot_compiler.py
+## 2) a .ctab file from a processed and aligned rna-seq read
+
+# these files must be separated by spaces after calling this script
+
+parse = open( sys.argv[1] )
+aligned_reads = open( sys.argv [2] )
+
+AC_dict = {}
+
+# making a dictionary of our AC codes and our gene IDs
+
+for line in parse:
+    p_fields = line.rstrip("\r\n").split(" ")
+    AC_dict[p_fields[0]] = p_fields[1]
+    #        FBgn           uniprot
+
+# matching gene IDs in dictionary and in ctab file
+
+for line in aligned_reads:
+    ar_fields = line.rstrip("\r\n").split("\t")
+    key = ar_fields[8]
+    if key in AC_dict:
+        print key, AC_dict[key]
+    elif key not in AC_dict:
+        print key, "n/a"
+    
