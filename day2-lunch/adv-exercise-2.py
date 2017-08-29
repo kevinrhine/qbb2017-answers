@@ -12,7 +12,7 @@ for line in fh:
     else:
         for line in fh:
             fields = line.split("\t")
-            if fields[2] == "2L" and fields[3] <= 20000 and fields[3] >= 10000:
+            if fields[2] == "2L" and int(fields[3]) <= 20000 and int(fields[3]) >= 10000:
                 total = total +1
             else:
                 continue
