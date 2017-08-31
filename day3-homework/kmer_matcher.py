@@ -62,7 +62,7 @@ for i in range(0,len(q_sequence) - k):
         
         for line in target_kmer[q_kmer]:
             
-            print "Target Name: ", target_kmer[q_kmer]
+            print "Target Name: ", line[0], line [1]
             print "Query Position: ", count_2
             print "kmer: ", q_kmer
             print ""
