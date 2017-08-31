@@ -1,0 +1,4004 @@
+Target Name:  [('STRG.12.1', 66)]
+Query Position:  11
+kmer:  CCAGGATTTGG
+
+Target Name:  [('STRG.24.1', 1316)]
+Query Position:  13
+kmer:  AGGATTTGGAT
+
+Target Name:  [('STRG.24.1', 1317)]
+Query Position:  14
+kmer:  GGATTTGGATT
+
+Target Name:  [('STRG.24.1', 1318)]
+Query Position:  15
+kmer:  GATTTGGATTT
+
+Target Name:  [('STRG.11.1', 24)]
+Query Position:  21
+kmer:  GATTTGTTGTG
+
+Target Name:  [('STRG.20.3', 5720), ('STRG.20.1', 15438), ('STRG.20.2', 16023)]
+Query Position:  103
+kmer:  GTTTGGCTGGC
+
+Target Name:  [('STRG.20.3', 5720), ('STRG.20.1', 15438), ('STRG.20.2', 16023)]
+Query Position:  103
+kmer:  GTTTGGCTGGC
+
+Target Name:  [('STRG.20.3', 5720), ('STRG.20.1', 15438), ('STRG.20.2', 16023)]
+Query Position:  103
+kmer:  GTTTGGCTGGC
+
+Target Name:  [('STRG.20.3', 5721), ('STRG.20.1', 15439), ('STRG.20.2', 16024)]
+Query Position:  104
+kmer:  TTTGGCTGGCT
+
+Target Name:  [('STRG.20.3', 5721), ('STRG.20.1', 15439), ('STRG.20.2', 16024)]
+Query Position:  104
+kmer:  TTTGGCTGGCT
+
+Target Name:  [('STRG.20.3', 5721), ('STRG.20.1', 15439), ('STRG.20.2', 16024)]
+Query Position:  104
+kmer:  TTTGGCTGGCT
+
+Target Name:  [('STRG.57.1', 719), ('STRG.57.2', 719)]
+Query Position:  122
+kmer:  CCAGCTGGAGG
+
+Target Name:  [('STRG.57.1', 719), ('STRG.57.2', 719)]
+Query Position:  122
+kmer:  CCAGCTGGAGG
+
+Target Name:  [('STRG.16.1', 273), ('STRG.16.2', 273)]
+Query Position:  126
+kmer:  CTGGAGGGCAT
+
+Target Name:  [('STRG.16.1', 273), ('STRG.16.2', 273)]
+Query Position:  126
+kmer:  CTGGAGGGCAT
+
+Target Name:  [('STRG.2.1', 552), ('STRG.2.2', 552)]
+Query Position:  166
+kmer:  TTTGCGCTGCC
+
+Target Name:  [('STRG.2.1', 552), ('STRG.2.2', 552)]
+Query Position:  166
+kmer:  TTTGCGCTGCC
+
+Target Name:  [('STRG.5.1', 2100)]
+Query Position:  167
+kmer:  TTGCGCTGCCT
+
+Target Name:  [('STRG.47.2', 1294)]
+Query Position:  191
+kmer:  ATAAATATTTC
+
+Target Name:  [('STRG.35.1', 1507)]
+Query Position:  208
+kmer:  TAGAAAATGTT
+
+Target Name:  [('STRG.33.1', 79), ('STRG.33.2', 79)]
+Query Position:  250
+kmer:  TTTTTTTGTTT
+
+Target Name:  [('STRG.33.1', 79), ('STRG.33.2', 79)]
+Query Position:  250
+kmer:  TTTTTTTGTTT
+
+Target Name:  [('STRG.33.1', 80), ('STRG.33.2', 80)]
+Query Position:  251
+kmer:  TTTTTTGTTTT
+
+Target Name:  [('STRG.33.1', 80), ('STRG.33.2', 80)]
+Query Position:  251
+kmer:  TTTTTTGTTTT
+
+Target Name:  [('STRG.33.1', 81), ('STRG.33.2', 81)]
+Query Position:  252
+kmer:  TTTTTGTTTTG
+
+Target Name:  [('STRG.33.1', 81), ('STRG.33.2', 81)]
+Query Position:  252
+kmer:  TTTTTGTTTTG
+
+Target Name:  [('STRG.2.1', 325), ('STRG.2.2', 325), ('STRG.4.1', 2100), ('STRG.8.1', 18)]
+Query Position:  253
+kmer:  TTTTGTTTTGC
+
+Target Name:  [('STRG.2.1', 325), ('STRG.2.2', 325), ('STRG.4.1', 2100), ('STRG.8.1', 18)]
+Query Position:  253
+kmer:  TTTTGTTTTGC
+
+Target Name:  [('STRG.2.1', 325), ('STRG.2.2', 325), ('STRG.4.1', 2100), ('STRG.8.1', 18)]
+Query Position:  253
+kmer:  TTTTGTTTTGC
+
+Target Name:  [('STRG.2.1', 325), ('STRG.2.2', 325), ('STRG.4.1', 2100), ('STRG.8.1', 18)]
+Query Position:  253
+kmer:  TTTTGTTTTGC
+
+Target Name:  [('STRG.8.1', 19)]
+Query Position:  254
+kmer:  TTTGTTTTGCT
+
+Target Name:  [('STRG.8.1', 20)]
+Query Position:  255
+kmer:  TTGTTTTGCTT
+
+Target Name:  [('STRG.8.1', 21)]
+Query Position:  256
+kmer:  TGTTTTGCTTA
+
+Target Name:  [('STRG.8.1', 22)]
+Query Position:  257
+kmer:  GTTTTGCTTAC
+
+Target Name:  [('STRG.21.2', 198), ('STRG.21.1', 198)]
+Query Position:  300
+kmer:  ATCCGGGCAAA
+
+Target Name:  [('STRG.21.2', 198), ('STRG.21.1', 198)]
+Query Position:  300
+kmer:  ATCCGGGCAAA
+
+Target Name:  [('STRG.18.2', 10545), ('STRG.18.1', 10599)]
+Query Position:  306
+kmer:  GCAAAGTTTAA
+
+Target Name:  [('STRG.18.2', 10545), ('STRG.18.1', 10599)]
+Query Position:  306
+kmer:  GCAAAGTTTAA
+
+Target Name:  [('STRG.20.3', 795), ('STRG.20.1', 10513), ('STRG.20.2', 11098)]
+Query Position:  315
+kmer:  AATCGAAAAGG
+
+Target Name:  [('STRG.20.3', 795), ('STRG.20.1', 10513), ('STRG.20.2', 11098)]
+Query Position:  315
+kmer:  AATCGAAAAGG
+
+Target Name:  [('STRG.20.3', 795), ('STRG.20.1', 10513), ('STRG.20.2', 11098)]
+Query Position:  315
+kmer:  AATCGAAAAGG
+
+Target Name:  [('STRG.20.3', 796), ('STRG.20.1', 10514), ('STRG.20.2', 11099)]
+Query Position:  316
+kmer:  ATCGAAAAGGA
+
+Target Name:  [('STRG.20.3', 796), ('STRG.20.1', 10514), ('STRG.20.2', 11099)]
+Query Position:  316
+kmer:  ATCGAAAAGGA
+
+Target Name:  [('STRG.20.3', 796), ('STRG.20.1', 10514), ('STRG.20.2', 11099)]
+Query Position:  316
+kmer:  ATCGAAAAGGA
+
+Target Name:  [('STRG.58.1', 868)]
+Query Position:  319
+kmer:  GAAAAGGAGAA
+
+Target Name:  [('STRG.58.1', 869)]
+Query Position:  320
+kmer:  AAAAGGAGAAG
+
+Target Name:  [('STRG.58.1', 870)]
+Query Position:  321
+kmer:  AAAGGAGAAGA
+
+Target Name:  [('STRG.35.1', 1206)]
+Query Position:  322
+kmer:  AAGGAGAAGAA
+
+Target Name:  [('STRG.2.1', 3226), ('STRG.2.2', 3226)]
+Query Position:  323
+kmer:  AGGAGAAGAAA
+
+Target Name:  [('STRG.2.1', 3226), ('STRG.2.2', 3226)]
+Query Position:  323
+kmer:  AGGAGAAGAAA
+
+Target Name:  [('STRG.24.1', 1436)]
+Query Position:  330
+kmer:  GAAAGATCATG
+
+Target Name:  [('STRG.20.3', 7678), ('STRG.20.1', 17396), ('STRG.20.2', 17981)]
+Query Position:  350
+kmer:  GCTAATGGCGC
+
+Target Name:  [('STRG.20.3', 7678), ('STRG.20.1', 17396), ('STRG.20.2', 17981)]
+Query Position:  350
+kmer:  GCTAATGGCGC
+
+Target Name:  [('STRG.20.3', 7678), ('STRG.20.1', 17396), ('STRG.20.2', 17981)]
+Query Position:  350
+kmer:  GCTAATGGCGC
+
+Target Name:  [('STRG.20.1', 4193), ('STRG.20.2', 4193)]
+Query Position:  389
+kmer:  GCCCAGGTGGG
+
+Target Name:  [('STRG.20.1', 4193), ('STRG.20.2', 4193)]
+Query Position:  389
+kmer:  GCCCAGGTGGG
+
+Target Name:  [('STRG.20.1', 10021), ('STRG.20.2', 10606)]
+Query Position:  391
+kmer:  CCAGGTGGGCA
+
+Target Name:  [('STRG.20.1', 10021), ('STRG.20.2', 10606)]
+Query Position:  391
+kmer:  CCAGGTGGGCA
+
+Target Name:  [('STRG.20.1', 10022), ('STRG.20.2', 10607)]
+Query Position:  392
+kmer:  CAGGTGGGCAT
+
+Target Name:  [('STRG.20.1', 10022), ('STRG.20.2', 10607)]
+Query Position:  392
+kmer:  CAGGTGGGCAT
+
+Target Name:  [('STRG.59.2', 748)]
+Query Position:  399
+kmer:  GCATTTATCAT
+
+Target Name:  [('STRG.18.2', 4090), ('STRG.18.1', 4144)]
+Query Position:  404
+kmer:  TATCATCATCA
+
+Target Name:  [('STRG.18.2', 4090), ('STRG.18.1', 4144)]
+Query Position:  404
+kmer:  TATCATCATCA
+
+Target Name:  [('STRG.18.2', 15275), ('STRG.18.1', 15329)]
+Query Position:  410
+kmer:  CATCAGCAGCC
+
+Target Name:  [('STRG.18.2', 15275), ('STRG.18.1', 15329)]
+Query Position:  410
+kmer:  CATCAGCAGCC
+
+Target Name:  [('STRG.20.3', 5399), ('STRG.20.1', 15117), ('STRG.20.2', 15702)]
+Query Position:  460
+kmer:  CCGCAAATGAA
+
+Target Name:  [('STRG.20.3', 5399), ('STRG.20.1', 15117), ('STRG.20.2', 15702)]
+Query Position:  460
+kmer:  CCGCAAATGAA
+
+Target Name:  [('STRG.20.3', 5399), ('STRG.20.1', 15117), ('STRG.20.2', 15702)]
+Query Position:  460
+kmer:  CCGCAAATGAA
+
+Target Name:  [('STRG.41.2', 2466), ('STRG.41.3', 2405)]
+Query Position:  548
+kmer:  ATTATTCAAAT
+
+Target Name:  [('STRG.41.2', 2466), ('STRG.41.3', 2405)]
+Query Position:  548
+kmer:  ATTATTCAAAT
+
+Target Name:  [('STRG.20.1', 123), ('STRG.20.2', 123)]
+Query Position:  582
+kmer:  AAACACGAAAC
+
+Target Name:  [('STRG.20.1', 123), ('STRG.20.2', 123)]
+Query Position:  582
+kmer:  AAACACGAAAC
+
+Target Name:  [('STRG.31.1', 1196), ('STRG.31.2', 1196)]
+Query Position:  598
+kmer:  CCGCATCCGCA
+
+Target Name:  [('STRG.31.1', 1196), ('STRG.31.2', 1196)]
+Query Position:  598
+kmer:  CCGCATCCGCA
+
+Target Name:  [('STRG.3.3', 64)]
+Query Position:  608
+kmer:  AAAATCCTTTG
+
+Target Name:  [('STRG.3.3', 65)]
+Query Position:  609
+kmer:  AAATCCTTTGA
+
+Target Name:  [('STRG.3.3', 66)]
+Query Position:  610
+kmer:  AATCCTTTGAG
+
+Target Name:  [('STRG.3.3', 67)]
+Query Position:  611
+kmer:  ATCCTTTGAGC
+
+Target Name:  [('STRG.18.2', 11653), ('STRG.18.1', 11707)]
+Query Position:  642
+kmer:  AAAATGACACC
+
+Target Name:  [('STRG.18.2', 11653), ('STRG.18.1', 11707)]
+Query Position:  642
+kmer:  AAAATGACACC
+
+Target Name:  [('STRG.23.3', 517), ('STRG.23.1', 290), ('STRG.23.2', 290)]
+Query Position:  648
+kmer:  ACACCAGCGGC
+
+Target Name:  [('STRG.23.3', 517), ('STRG.23.1', 290), ('STRG.23.2', 290)]
+Query Position:  648
+kmer:  ACACCAGCGGC
+
+Target Name:  [('STRG.23.3', 517), ('STRG.23.1', 290), ('STRG.23.2', 290)]
+Query Position:  648
+kmer:  ACACCAGCGGC
+
+Target Name:  [('STRG.23.3', 518), ('STRG.23.1', 291), ('STRG.23.2', 291)]
+Query Position:  649
+kmer:  CACCAGCGGCT
+
+Target Name:  [('STRG.23.3', 518), ('STRG.23.1', 291), ('STRG.23.2', 291)]
+Query Position:  649
+kmer:  CACCAGCGGCT
+
+Target Name:  [('STRG.23.3', 518), ('STRG.23.1', 291), ('STRG.23.2', 291)]
+Query Position:  649
+kmer:  CACCAGCGGCT
+
+Target Name:  [('STRG.58.1', 488)]
+Query Position:  683
+kmer:  CAGCCATTAAA
+
+Target Name:  [('STRG.4.1', 2523)]
+Query Position:  688
+kmer:  ATTAAAACTAC
+
+Target Name:  [('STRG.48.1', 3475)]
+Query Position:  689
+kmer:  TTAAAACTACG
+
+Target Name:  [('STRG.13.1', 2740)]
+Query Position:  765
+kmer:  AAGGAATTTGC
+
+Target Name:  [('STRG.13.1', 2741)]
+Query Position:  766
+kmer:  AGGAATTTGCT
+
+Target Name:  [('STRG.14.1', 767)]
+Query Position:  769
+kmer:  AATTTGCTGTC
+
+Target Name:  [('STRG.5.1', 185)]
+Query Position:  781
+kmer:  TCTGGTTGCCA
+
+Target Name:  [('STRG.5.1', 186)]
+Query Position:  782
+kmer:  CTGGTTGCCAT
+
+Target Name:  [('STRG.26.1', 1867), ('STRG.26.2', 2889)]
+Query Position:  803
+kmer:  CACCTCATCGC
+
+Target Name:  [('STRG.26.1', 1867), ('STRG.26.2', 2889)]
+Query Position:  803
+kmer:  CACCTCATCGC
+
+Target Name:  [('STRG.26.1', 1868), ('STRG.26.2', 2890)]
+Query Position:  804
+kmer:  ACCTCATCGCC
+
+Target Name:  [('STRG.26.1', 1868), ('STRG.26.2', 2890)]
+Query Position:  804
+kmer:  ACCTCATCGCC
+
+Target Name:  [('STRG.44.1', 2808), ('STRG.44.2', 2808)]
+Query Position:  829
+kmer:  CTAGGAGCAGC
+
+Target Name:  [('STRG.44.1', 2808), ('STRG.44.2', 2808)]
+Query Position:  829
+kmer:  CTAGGAGCAGC
+
+Target Name:  [('STRG.57.1', 752), ('STRG.57.2', 752)]
+Query Position:  831
+kmer:  AGGAGCAGCCA
+
+Target Name:  [('STRG.57.1', 752), ('STRG.57.2', 752)]
+Query Position:  831
+kmer:  AGGAGCAGCCA
+
+Target Name:  [('STRG.57.1', 753), ('STRG.57.2', 753)]
+Query Position:  832
+kmer:  GGAGCAGCCAG
+
+Target Name:  [('STRG.57.1', 753), ('STRG.57.2', 753)]
+Query Position:  832
+kmer:  GGAGCAGCCAG
+
+Target Name:  [('STRG.18.2', 7674), ('STRG.18.1', 7728)]
+Query Position:  837
+kmer:  AGCCAGGAGCT
+
+Target Name:  [('STRG.18.2', 7674), ('STRG.18.1', 7728)]
+Query Position:  837
+kmer:  AGCCAGGAGCT
+
+Target Name:  [('STRG.18.2', 4719), ('STRG.18.1', 4773)]
+Query Position:  859
+kmer:  TGAAAGACTGC
+
+Target Name:  [('STRG.18.2', 4719), ('STRG.18.1', 4773)]
+Query Position:  859
+kmer:  TGAAAGACTGC
+
+Target Name:  [('STRG.18.2', 4720), ('STRG.18.1', 4774)]
+Query Position:  860
+kmer:  GAAAGACTGCG
+
+Target Name:  [('STRG.18.2', 4720), ('STRG.18.1', 4774)]
+Query Position:  860
+kmer:  GAAAGACTGCG
+
+Target Name:  [('STRG.9.1', 1474), ('STRG.9.2', 1474), ('STRG.9.3', 1694)]
+Query Position:  875
+kmer:  ATTGAACTGAA
+
+Target Name:  [('STRG.9.1', 1474), ('STRG.9.2', 1474), ('STRG.9.3', 1694)]
+Query Position:  875
+kmer:  ATTGAACTGAA
+
+Target Name:  [('STRG.9.1', 1474), ('STRG.9.2', 1474), ('STRG.9.3', 1694)]
+Query Position:  875
+kmer:  ATTGAACTGAA
+
+Target Name:  [('STRG.56.1', 1470), ('STRG.56.3', 2668)]
+Query Position:  936
+kmer:  GCTCTTAAACT
+
+Target Name:  [('STRG.56.1', 1470), ('STRG.56.3', 2668)]
+Query Position:  936
+kmer:  GCTCTTAAACT
+
+Target Name:  [('STRG.7.6', 136)]
+Query Position:  948
+kmer:  GCATTTTAAAC
+
+Target Name:  [('STRG.18.2', 166), ('STRG.18.1', 166)]
+Query Position:  981
+kmer:  TAAATATAGCA
+
+Target Name:  [('STRG.18.2', 166), ('STRG.18.1', 166)]
+Query Position:  981
+kmer:  TAAATATAGCA
+
+Target Name:  [('STRG.2.1', 736), ('STRG.2.2', 736)]
+Query Position:  982
+kmer:  AAATATAGCAA
+
+Target Name:  [('STRG.2.1', 736), ('STRG.2.2', 736)]
+Query Position:  982
+kmer:  AAATATAGCAA
+
+Target Name:  [('STRG.42.2', 926)]
+Query Position:  1006
+kmer:  GCAATTTTTAA
+
+Target Name:  [('STRG.42.2', 927)]
+Query Position:  1007
+kmer:  CAATTTTTAAA
+
+Target Name:  [('STRG.42.2', 928), ('STRG.57.2', 3573)]
+Query Position:  1008
+kmer:  AATTTTTAAAT
+
+Target Name:  [('STRG.42.2', 928), ('STRG.57.2', 3573)]
+Query Position:  1008
+kmer:  AATTTTTAAAT
+
+Target Name:  [('STRG.57.2', 3574)]
+Query Position:  1009
+kmer:  ATTTTTAAATT
+
+Target Name:  [('STRG.4.1', 621)]
+Query Position:  1010
+kmer:  TTTTTAAATTG
+
+Target Name:  [('STRG.20.3', 139)]
+Query Position:  1020
+kmer:  GAAATGGAATA
+
+Target Name:  [('STRG.20.3', 140)]
+Query Position:  1021
+kmer:  AAATGGAATAA
+
+Target Name:  [('STRG.10.6', 296), ('STRG.10.1', 50), ('STRG.10.4', 50)]
+Query Position:  1029
+kmer:  TAAGGCAATAT
+
+Target Name:  [('STRG.10.6', 296), ('STRG.10.1', 50), ('STRG.10.4', 50)]
+Query Position:  1029
+kmer:  TAAGGCAATAT
+
+Target Name:  [('STRG.10.6', 296), ('STRG.10.1', 50), ('STRG.10.4', 50)]
+Query Position:  1029
+kmer:  TAAGGCAATAT
+
+Target Name:  [('STRG.10.6', 297), ('STRG.10.1', 51), ('STRG.10.4', 51)]
+Query Position:  1030
+kmer:  AAGGCAATATA
+
+Target Name:  [('STRG.10.6', 297), ('STRG.10.1', 51), ('STRG.10.4', 51)]
+Query Position:  1030
+kmer:  AAGGCAATATA
+
+Target Name:  [('STRG.10.6', 297), ('STRG.10.1', 51), ('STRG.10.4', 51)]
+Query Position:  1030
+kmer:  AAGGCAATATA
+
+Target Name:  [('STRG.10.6', 298), ('STRG.10.1', 52), ('STRG.10.4', 52)]
+Query Position:  1031
+kmer:  AGGCAATATAA
+
+Target Name:  [('STRG.10.6', 298), ('STRG.10.1', 52), ('STRG.10.4', 52)]
+Query Position:  1031
+kmer:  AGGCAATATAA
+
+Target Name:  [('STRG.10.6', 298), ('STRG.10.1', 52), ('STRG.10.4', 52)]
+Query Position:  1031
+kmer:  AGGCAATATAA
+
+Target Name:  [('STRG.1.1', 4072)]
+Query Position:  1035
+kmer:  AATATAAAATA
+
+Target Name:  [('STRG.1.1', 1402)]
+Query Position:  1072
+kmer:  AGATGTCGCTG
+
+Target Name:  [('STRG.1.1', 1403), ('STRG.4.1', 171)]
+Query Position:  1073
+kmer:  GATGTCGCTGA
+
+Target Name:  [('STRG.1.1', 1403), ('STRG.4.1', 171)]
+Query Position:  1073
+kmer:  GATGTCGCTGA
+
+Target Name:  [('STRG.27.1', 171)]
+Query Position:  1078
+kmer:  CGCTGAGCAAG
+
+Target Name:  [('STRG.31.2', 3536), ('STRG.31.3', 2446)]
+Query Position:  1102
+kmer:  CTTTCCCAGCC
+
+Target Name:  [('STRG.31.2', 3536), ('STRG.31.3', 2446)]
+Query Position:  1102
+kmer:  CTTTCCCAGCC
+
+Target Name:  [('STRG.31.2', 3537), ('STRG.31.3', 2447)]
+Query Position:  1103
+kmer:  TTTCCCAGCCA
+
+Target Name:  [('STRG.31.2', 3537), ('STRG.31.3', 2447)]
+Query Position:  1103
+kmer:  TTTCCCAGCCA
+
+Target Name:  [('STRG.44.1', 3567), ('STRG.44.2', 3567)]
+Query Position:  1115
+kmer:  CTGATGAACGA
+
+Target Name:  [('STRG.44.1', 3567), ('STRG.44.2', 3567)]
+Query Position:  1115
+kmer:  CTGATGAACGA
+
+Target Name:  [('STRG.31.2', 3777), ('STRG.31.3', 2687)]
+Query Position:  1131
+kmer:  GCGATCCACTT
+
+Target Name:  [('STRG.31.2', 3777), ('STRG.31.3', 2687)]
+Query Position:  1131
+kmer:  GCGATCCACTT
+
+Target Name:  [('STRG.60.1', 393)]
+Query Position:  1159
+kmer:  ATGGCCAGAAG
+
+Target Name:  [('STRG.2.1', 409), ('STRG.2.2', 409)]
+Query Position:  1215
+kmer:  AAGGCGAACTG
+
+Target Name:  [('STRG.2.1', 409), ('STRG.2.2', 409)]
+Query Position:  1215
+kmer:  AAGGCGAACTG
+
+Target Name:  [('STRG.3.2', 342)]
+Query Position:  1220
+kmer:  GAACTGTTTCG
+
+Target Name:  [('STRG.23.2', 2940)]
+Query Position:  1226
+kmer:  TTTCGGAATTA
+
+Target Name:  [('STRG.48.1', 2178), ('STRG.48.2', 2178)]
+Query Position:  1258
+kmer:  GGCCACAGATG
+
+Target Name:  [('STRG.48.1', 2178), ('STRG.48.2', 2178)]
+Query Position:  1258
+kmer:  GGCCACAGATG
+
+Target Name:  [('STRG.27.1', 2711)]
+Query Position:  1279
+kmer:  ATTCCAGAGCA
+
+Target Name:  [('STRG.28.1', 72)]
+Query Position:  1283
+kmer:  CAGAGCAGCTG
+
+Target Name:  [('STRG.34.1', 871)]
+Query Position:  1307
+kmer:  CATTCTTGTGC
+
+Target Name:  [('STRG.34.1', 872)]
+Query Position:  1308
+kmer:  ATTCTTGTGCT
+
+Target Name:  [('STRG.23.3', 1515), ('STRG.23.1', 1288), ('STRG.23.2', 1288)]
+Query Position:  1325
+kmer:  CATGTGGAGCG
+
+Target Name:  [('STRG.23.3', 1515), ('STRG.23.1', 1288), ('STRG.23.2', 1288)]
+Query Position:  1325
+kmer:  CATGTGGAGCG
+
+Target Name:  [('STRG.23.3', 1515), ('STRG.23.1', 1288), ('STRG.23.2', 1288)]
+Query Position:  1325
+kmer:  CATGTGGAGCG
+
+Target Name:  [('STRG.20.1', 608), ('STRG.20.2', 608)]
+Query Position:  1348
+kmer:  GCCGCAGCCGC
+
+Target Name:  [('STRG.20.1', 608), ('STRG.20.2', 608)]
+Query Position:  1348
+kmer:  GCCGCAGCCGC
+
+Target Name:  [('STRG.20.1', 609), ('STRG.20.2', 609)]
+Query Position:  1349
+kmer:  CCGCAGCCGCG
+
+Target Name:  [('STRG.20.1', 609), ('STRG.20.2', 609)]
+Query Position:  1349
+kmer:  CCGCAGCCGCG
+
+Target Name:  [('STRG.20.1', 610), ('STRG.20.2', 610)]
+Query Position:  1350
+kmer:  CGCAGCCGCGG
+
+Target Name:  [('STRG.20.1', 610), ('STRG.20.2', 610)]
+Query Position:  1350
+kmer:  CGCAGCCGCGG
+
+Target Name:  [('STRG.52.1', 2047)]
+Query Position:  1356
+kmer:  CGCGGGCAACA
+
+Target Name:  [('STRG.36.1', 2371)]
+Query Position:  1409
+kmer:  GGAAAAGCAGC
+
+Target Name:  [('STRG.36.1', 2372)]
+Query Position:  1410
+kmer:  GAAAAGCAGCT
+
+Target Name:  [('STRG.45.1', 1074)]
+Query Position:  1429
+kmer:  CTTTTTGGCGC
+
+Target Name:  [('STRG.31.2', 4221), ('STRG.31.3', 3131)]
+Query Position:  1430
+kmer:  TTTTTGGCGCA
+
+Target Name:  [('STRG.31.2', 4221), ('STRG.31.3', 3131)]
+Query Position:  1430
+kmer:  TTTTTGGCGCA
+
+Target Name:  [('STRG.31.1', 559), ('STRG.31.2', 559)]
+Query Position:  1443
+kmer:  CCACAGGCGCC
+
+Target Name:  [('STRG.31.1', 559), ('STRG.31.2', 559)]
+Query Position:  1443
+kmer:  CCACAGGCGCC
+
+Target Name:  [('STRG.35.1', 783)]
+Query Position:  1454
+kmer:  TTCTTCTACGA
+
+Target Name:  [('STRG.35.1', 784)]
+Query Position:  1455
+kmer:  TCTTCTACGAC
+
+Target Name:  [('STRG.26.1', 293), ('STRG.26.2', 1315)]
+Query Position:  1461
+kmer:  ACGACGACGAG
+
+Target Name:  [('STRG.26.1', 293), ('STRG.26.2', 1315)]
+Query Position:  1461
+kmer:  ACGACGACGAG
+
+Target Name:  [('STRG.13.2', 852)]
+Query Position:  1473
+kmer:  TGGAGCTGGAG
+
+Target Name:  [('STRG.31.1', 1171), ('STRG.31.2', 1171)]
+Query Position:  1474
+kmer:  GGAGCTGGAGA
+
+Target Name:  [('STRG.31.1', 1171), ('STRG.31.2', 1171)]
+Query Position:  1474
+kmer:  GGAGCTGGAGA
+
+Target Name:  [('STRG.9.2', 1758), ('STRG.9.3', 1978)]
+Query Position:  1501
+kmer:  GGTCAACGCCA
+
+Target Name:  [('STRG.9.2', 1758), ('STRG.9.3', 1978)]
+Query Position:  1501
+kmer:  GGTCAACGCCA
+
+Target Name:  [('STRG.9.2', 1759), ('STRG.9.3', 1979)]
+Query Position:  1502
+kmer:  GTCAACGCCAT
+
+Target Name:  [('STRG.9.2', 1759), ('STRG.9.3', 1979)]
+Query Position:  1502
+kmer:  GTCAACGCCAT
+
+Target Name:  [('STRG.28.1', 1275)]
+Query Position:  1503
+kmer:  TCAACGCCATC
+
+Target Name:  [('STRG.2.1', 2217), ('STRG.2.2', 2217), ('STRG.26.1', 699), ('STRG.26.2', 1721)]
+Query Position:  1505
+kmer:  AACGCCATCAA
+
+Target Name:  [('STRG.2.1', 2217), ('STRG.2.2', 2217), ('STRG.26.1', 699), ('STRG.26.2', 1721)]
+Query Position:  1505
+kmer:  AACGCCATCAA
+
+Target Name:  [('STRG.2.1', 2217), ('STRG.2.2', 2217), ('STRG.26.1', 699), ('STRG.26.2', 1721)]
+Query Position:  1505
+kmer:  AACGCCATCAA
+
+Target Name:  [('STRG.2.1', 2217), ('STRG.2.2', 2217), ('STRG.26.1', 699), ('STRG.26.2', 1721)]
+Query Position:  1505
+kmer:  AACGCCATCAA
+
+Target Name:  [('STRG.49.2', 934), ('STRG.49.1', 854)]
+Query Position:  1527
+kmer:  CCGAGCAGACG
+
+Target Name:  [('STRG.49.2', 934), ('STRG.49.1', 854)]
+Query Position:  1527
+kmer:  CCGAGCAGACG
+
+Target Name:  [('STRG.51.1', 228)]
+Query Position:  1528
+kmer:  CGAGCAGACGG
+
+Target Name:  [('STRG.32.2', 325), ('STRG.32.1', 325)]
+Query Position:  1531
+kmer:  GCAGACGGTGC
+
+Target Name:  [('STRG.32.2', 325), ('STRG.32.1', 325)]
+Query Position:  1531
+kmer:  GCAGACGGTGC
+
+Target Name:  [('STRG.3.2', 326)]
+Query Position:  1555
+kmer:  CATCAAGCGCC
+
+Target Name:  [('STRG.1.1', 3847)]
+Query Position:  1560
+kmer:  AGCGCCTGAAG
+
+Target Name:  [('STRG.31.1', 1234), ('STRG.31.2', 1234)]
+Query Position:  1592
+kmer:  CTGCAGGAGCA
+
+Target Name:  [('STRG.31.1', 1234), ('STRG.31.2', 1234)]
+Query Position:  1592
+kmer:  CTGCAGGAGCA
+
+Target Name:  [('STRG.1.1', 3983)]
+Query Position:  1638
+kmer:  AAAATCGAACG
+
+Target Name:  [('STRG.13.2', 3136)]
+Query Position:  1640
+kmer:  AATCGAACGTA
+
+Target Name:  [('STRG.20.3', 647), ('STRG.20.1', 10365), ('STRG.20.2', 10950)]
+Query Position:  1711
+kmer:  GGACCAAGTTC
+
+Target Name:  [('STRG.20.3', 647), ('STRG.20.1', 10365), ('STRG.20.2', 10950)]
+Query Position:  1711
+kmer:  GGACCAAGTTC
+
+Target Name:  [('STRG.20.3', 647), ('STRG.20.1', 10365), ('STRG.20.2', 10950)]
+Query Position:  1711
+kmer:  GGACCAAGTTC
+
+Target Name:  [('STRG.20.3', 648), ('STRG.20.1', 10366), ('STRG.20.2', 10951)]
+Query Position:  1712
+kmer:  GACCAAGTTCA
+
+Target Name:  [('STRG.20.3', 648), ('STRG.20.1', 10366), ('STRG.20.2', 10951)]
+Query Position:  1712
+kmer:  GACCAAGTTCA
+
+Target Name:  [('STRG.20.3', 648), ('STRG.20.1', 10366), ('STRG.20.2', 10951)]
+Query Position:  1712
+kmer:  GACCAAGTTCA
+
+Target Name:  [('STRG.20.3', 649), ('STRG.20.1', 10367), ('STRG.20.2', 10952), ('STRG.25.2', 234), ('STRG.25.1', 133)]
+Query Position:  1713
+kmer:  ACCAAGTTCAA
+
+Target Name:  [('STRG.20.3', 649), ('STRG.20.1', 10367), ('STRG.20.2', 10952), ('STRG.25.2', 234), ('STRG.25.1', 133)]
+Query Position:  1713
+kmer:  ACCAAGTTCAA
+
+Target Name:  [('STRG.20.3', 649), ('STRG.20.1', 10367), ('STRG.20.2', 10952), ('STRG.25.2', 234), ('STRG.25.1', 133)]
+Query Position:  1713
+kmer:  ACCAAGTTCAA
+
+Target Name:  [('STRG.20.3', 649), ('STRG.20.1', 10367), ('STRG.20.2', 10952), ('STRG.25.2', 234), ('STRG.25.1', 133)]
+Query Position:  1713
+kmer:  ACCAAGTTCAA
+
+Target Name:  [('STRG.20.3', 649), ('STRG.20.1', 10367), ('STRG.20.2', 10952), ('STRG.25.2', 234), ('STRG.25.1', 133)]
+Query Position:  1713
+kmer:  ACCAAGTTCAA
+
+Target Name:  [('STRG.20.3', 650), ('STRG.20.1', 10368), ('STRG.20.2', 10953)]
+Query Position:  1714
+kmer:  CCAAGTTCAAA
+
+Target Name:  [('STRG.20.3', 650), ('STRG.20.1', 10368), ('STRG.20.2', 10953)]
+Query Position:  1714
+kmer:  CCAAGTTCAAA
+
+Target Name:  [('STRG.20.3', 650), ('STRG.20.1', 10368), ('STRG.20.2', 10953)]
+Query Position:  1714
+kmer:  CCAAGTTCAAA
+
+Target Name:  [('STRG.18.1', 18637), ('STRG.13.2', 3154)]
+Query Position:  1763
+kmer:  AGAACACGAGA
+
+Target Name:  [('STRG.18.1', 18637), ('STRG.13.2', 3154)]
+Query Position:  1763
+kmer:  AGAACACGAGA
+
+Target Name:  [('STRG.18.1', 18638)]
+Query Position:  1764
+kmer:  GAACACGAGAG
+
+Target Name:  [('STRG.41.2', 2006), ('STRG.41.3', 1945), ('STRG.41.1', 1734)]
+Query Position:  1771
+kmer:  AGAGCAAAATA
+
+Target Name:  [('STRG.41.2', 2006), ('STRG.41.3', 1945), ('STRG.41.1', 1734)]
+Query Position:  1771
+kmer:  AGAGCAAAATA
+
+Target Name:  [('STRG.41.2', 2006), ('STRG.41.3', 1945), ('STRG.41.1', 1734)]
+Query Position:  1771
+kmer:  AGAGCAAAATA
+
+Target Name:  [('STRG.41.2', 2007), ('STRG.41.3', 1946), ('STRG.41.1', 1735)]
+Query Position:  1772
+kmer:  GAGCAAAATAG
+
+Target Name:  [('STRG.41.2', 2007), ('STRG.41.3', 1946), ('STRG.41.1', 1735)]
+Query Position:  1772
+kmer:  GAGCAAAATAG
+
+Target Name:  [('STRG.41.2', 2007), ('STRG.41.3', 1946), ('STRG.41.1', 1735)]
+Query Position:  1772
+kmer:  GAGCAAAATAG
+
+Target Name:  [('STRG.9.3', 249)]
+Query Position:  1786
+kmer:  GCAAGGAAAAT
+
+Target Name:  [('STRG.18.2', 6681), ('STRG.18.1', 6735)]
+Query Position:  1787
+kmer:  CAAGGAAAATG
+
+Target Name:  [('STRG.18.2', 6681), ('STRG.18.1', 6735)]
+Query Position:  1787
+kmer:  CAAGGAAAATG
+
+Target Name:  [('STRG.57.1', 1594), ('STRG.57.2', 1594)]
+Query Position:  1798
+kmer:  GGGCACACGAA
+
+Target Name:  [('STRG.57.1', 1594), ('STRG.57.2', 1594)]
+Query Position:  1798
+kmer:  GGGCACACGAA
+
+Target Name:  [('STRG.2.1', 3712), ('STRG.2.2', 3712)]
+Query Position:  1801
+kmer:  CACACGAAAAT
+
+Target Name:  [('STRG.2.1', 3712), ('STRG.2.2', 3712)]
+Query Position:  1801
+kmer:  CACACGAAAAT
+
+Target Name:  [('STRG.30.1', 349)]
+Query Position:  1851
+kmer:  TTAATCCCACC
+
+Target Name:  [('STRG.11.1', 853)]
+Query Position:  1875
+kmer:  CGTTTAATGAG
+
+Target Name:  [('STRG.11.1', 854)]
+Query Position:  1876
+kmer:  GTTTAATGAGC
+
+Target Name:  [('STRG.13.1', 2803)]
+Query Position:  1905
+kmer:  CAGACATTGTG
+
+Target Name:  [('STRG.59.1', 2344), ('STRG.59.2', 3132)]
+Query Position:  1979
+kmer:  CAGGCGGAGAA
+
+Target Name:  [('STRG.59.1', 2344), ('STRG.59.2', 3132)]
+Query Position:  1979
+kmer:  CAGGCGGAGAA
+
+Target Name:  [('STRG.59.1', 2345), ('STRG.59.1', 2354), ('STRG.59.2', 3133), ('STRG.59.2', 3142)]
+Query Position:  1980
+kmer:  AGGCGGAGAAG
+
+Target Name:  [('STRG.59.1', 2345), ('STRG.59.1', 2354), ('STRG.59.2', 3133), ('STRG.59.2', 3142)]
+Query Position:  1980
+kmer:  AGGCGGAGAAG
+
+Target Name:  [('STRG.59.1', 2345), ('STRG.59.1', 2354), ('STRG.59.2', 3133), ('STRG.59.2', 3142)]
+Query Position:  1980
+kmer:  AGGCGGAGAAG
+
+Target Name:  [('STRG.59.1', 2345), ('STRG.59.1', 2354), ('STRG.59.2', 3133), ('STRG.59.2', 3142)]
+Query Position:  1980
+kmer:  AGGCGGAGAAG
+
+Target Name:  [('STRG.59.1', 2355), ('STRG.59.2', 3143)]
+Query Position:  1981
+kmer:  GGCGGAGAAGC
+
+Target Name:  [('STRG.59.1', 2355), ('STRG.59.2', 3143)]
+Query Position:  1981
+kmer:  GGCGGAGAAGC
+
+Target Name:  [('STRG.29.1', 426)]
+Query Position:  1982
+kmer:  GCGGAGAAGCC
+
+Target Name:  [('STRG.15.1', 967)]
+Query Position:  1985
+kmer:  GAGAAGCCCAA
+
+Target Name:  [('STRG.36.1', 1697)]
+Query Position:  1994
+kmer:  AACCACCAGCT
+
+Target Name:  [('STRG.33.1', 1757)]
+Query Position:  1997
+kmer:  CACCAGCTGAC
+
+Target Name:  [('STRG.33.1', 1758)]
+Query Position:  1998
+kmer:  ACCAGCTGACC
+
+Target Name:  [('STRG.33.1', 4486), ('STRG.33.2', 4300)]
+Query Position:  2016
+kmer:  TGTATCCAGCA
+
+Target Name:  [('STRG.33.1', 4486), ('STRG.33.2', 4300)]
+Query Position:  2016
+kmer:  TGTATCCAGCA
+
+Target Name:  [('STRG.23.3', 282), ('STRG.23.1', 55), ('STRG.23.2', 55)]
+Query Position:  2023
+kmer:  AGCACAGGCTA
+
+Target Name:  [('STRG.23.3', 282), ('STRG.23.1', 55), ('STRG.23.2', 55)]
+Query Position:  2023
+kmer:  AGCACAGGCTA
+
+Target Name:  [('STRG.23.3', 282), ('STRG.23.1', 55), ('STRG.23.2', 55)]
+Query Position:  2023
+kmer:  AGCACAGGCTA
+
+Target Name:  [('STRG.34.1', 1441)]
+Query Position:  2105
+kmer:  GATGATGGTAA
+
+Target Name:  [('STRG.5.1', 1424)]
+Query Position:  2131
+kmer:  TCCAATAGCTT
+
+Target Name:  [('STRG.33.1', 2240), ('STRG.33.2', 2057), ('STRG.53.1', 525), ('STRG.53.2', 525)]
+Query Position:  2175
+kmer:  GCCAAGGCGGC
+
+Target Name:  [('STRG.33.1', 2240), ('STRG.33.2', 2057), ('STRG.53.1', 525), ('STRG.53.2', 525)]
+Query Position:  2175
+kmer:  GCCAAGGCGGC
+
+Target Name:  [('STRG.33.1', 2240), ('STRG.33.2', 2057), ('STRG.53.1', 525), ('STRG.53.2', 525)]
+Query Position:  2175
+kmer:  GCCAAGGCGGC
+
+Target Name:  [('STRG.33.1', 2240), ('STRG.33.2', 2057), ('STRG.53.1', 525), ('STRG.53.2', 525)]
+Query Position:  2175
+kmer:  GCCAAGGCGGC
+
+Target Name:  [('STRG.20.3', 1174), ('STRG.20.1', 10892), ('STRG.20.2', 11477)]
+Query Position:  2178
+kmer:  AAGGCGGCAGC
+
+Target Name:  [('STRG.20.3', 1174), ('STRG.20.1', 10892), ('STRG.20.2', 11477)]
+Query Position:  2178
+kmer:  AAGGCGGCAGC
+
+Target Name:  [('STRG.20.3', 1174), ('STRG.20.1', 10892), ('STRG.20.2', 11477)]
+Query Position:  2178
+kmer:  AAGGCGGCAGC
+
+Target Name:  [('STRG.26.1', 1031), ('STRG.26.2', 2053)]
+Query Position:  2181
+kmer:  GCGGCAGCTCG
+
+Target Name:  [('STRG.26.1', 1031), ('STRG.26.2', 2053)]
+Query Position:  2181
+kmer:  GCGGCAGCTCG
+
+Target Name:  [('STRG.20.1', 9690), ('STRG.20.2', 10275)]
+Query Position:  2194
+kmer:  TGCAGGACCTT
+
+Target Name:  [('STRG.20.1', 9690), ('STRG.20.2', 10275)]
+Query Position:  2194
+kmer:  TGCAGGACCTT
+
+Target Name:  [('STRG.35.1', 1335)]
+Query Position:  2202
+kmer:  CTTCTGCAGCT
+
+Target Name:  [('STRG.20.3', 6546), ('STRG.20.1', 16264), ('STRG.20.2', 16849)]
+Query Position:  2203
+kmer:  TTCTGCAGCTG
+
+Target Name:  [('STRG.20.3', 6546), ('STRG.20.1', 16264), ('STRG.20.2', 16849)]
+Query Position:  2203
+kmer:  TTCTGCAGCTG
+
+Target Name:  [('STRG.20.3', 6546), ('STRG.20.1', 16264), ('STRG.20.2', 16849)]
+Query Position:  2203
+kmer:  TTCTGCAGCTG
+
+Target Name:  [('STRG.20.3', 6547), ('STRG.20.1', 16265), ('STRG.20.2', 16850)]
+Query Position:  2204
+kmer:  TCTGCAGCTGC
+
+Target Name:  [('STRG.20.3', 6547), ('STRG.20.1', 16265), ('STRG.20.2', 16850)]
+Query Position:  2204
+kmer:  TCTGCAGCTGC
+
+Target Name:  [('STRG.20.3', 6547), ('STRG.20.1', 16265), ('STRG.20.2', 16850)]
+Query Position:  2204
+kmer:  TCTGCAGCTGC
+
+Target Name:  [('STRG.48.1', 2109), ('STRG.48.2', 2109)]
+Query Position:  2207
+kmer:  GCAGCTGCGAG
+
+Target Name:  [('STRG.48.1', 2109), ('STRG.48.2', 2109)]
+Query Position:  2207
+kmer:  GCAGCTGCGAG
+
+Target Name:  [('STRG.48.1', 2110), ('STRG.48.2', 2110)]
+Query Position:  2208
+kmer:  CAGCTGCGAGA
+
+Target Name:  [('STRG.48.1', 2110), ('STRG.48.2', 2110)]
+Query Position:  2208
+kmer:  CAGCTGCGAGA
+
+Target Name:  [('STRG.48.1', 2111), ('STRG.48.2', 2111)]
+Query Position:  2209
+kmer:  AGCTGCGAGAA
+
+Target Name:  [('STRG.48.1', 2111), ('STRG.48.2', 2111)]
+Query Position:  2209
+kmer:  AGCTGCGAGAA
+
+Target Name:  [('STRG.20.3', 851), ('STRG.20.1', 10569), ('STRG.20.2', 11154)]
+Query Position:  2212
+kmer:  TGCGAGAAGTC
+
+Target Name:  [('STRG.20.3', 851), ('STRG.20.1', 10569), ('STRG.20.2', 11154)]
+Query Position:  2212
+kmer:  TGCGAGAAGTC
+
+Target Name:  [('STRG.20.3', 851), ('STRG.20.1', 10569), ('STRG.20.2', 11154)]
+Query Position:  2212
+kmer:  TGCGAGAAGTC
+
+Target Name:  [('STRG.36.1', 1749)]
+Query Position:  2248
+kmer:  AGTTCCAGAAG
+
+Target Name:  [('STRG.26.1', 285), ('STRG.26.2', 1307)]
+Query Position:  2252
+kmer:  CCAGAAGGACG
+
+Target Name:  [('STRG.26.1', 285), ('STRG.26.2', 1307)]
+Query Position:  2252
+kmer:  CCAGAAGGACG
+
+Target Name:  [('STRG.26.1', 286), ('STRG.26.2', 1308)]
+Query Position:  2253
+kmer:  CAGAAGGACGA
+
+Target Name:  [('STRG.26.1', 286), ('STRG.26.2', 1308)]
+Query Position:  2253
+kmer:  CAGAAGGACGA
+
+Target Name:  [('STRG.26.1', 287), ('STRG.26.2', 1309)]
+Query Position:  2254
+kmer:  AGAAGGACGAC
+
+Target Name:  [('STRG.26.1', 287), ('STRG.26.2', 1309)]
+Query Position:  2254
+kmer:  AGAAGGACGAC
+
+Target Name:  [('STRG.26.1', 288), ('STRG.26.2', 1310)]
+Query Position:  2255
+kmer:  GAAGGACGACG
+
+Target Name:  [('STRG.26.1', 288), ('STRG.26.2', 1310)]
+Query Position:  2255
+kmer:  GAAGGACGACG
+
+Target Name:  [('STRG.26.1', 289), ('STRG.26.2', 1311), ('STRG.31.1', 1432), ('STRG.31.2', 1432), ('STRG.31.3', 342)]
+Query Position:  2256
+kmer:  AAGGACGACGA
+
+Target Name:  [('STRG.26.1', 289), ('STRG.26.2', 1311), ('STRG.31.1', 1432), ('STRG.31.2', 1432), ('STRG.31.3', 342)]
+Query Position:  2256
+kmer:  AAGGACGACGA
+
+Target Name:  [('STRG.26.1', 289), ('STRG.26.2', 1311), ('STRG.31.1', 1432), ('STRG.31.2', 1432), ('STRG.31.3', 342)]
+Query Position:  2256
+kmer:  AAGGACGACGA
+
+Target Name:  [('STRG.26.1', 289), ('STRG.26.2', 1311), ('STRG.31.1', 1432), ('STRG.31.2', 1432), ('STRG.31.3', 342)]
+Query Position:  2256
+kmer:  AAGGACGACGA
+
+Target Name:  [('STRG.26.1', 289), ('STRG.26.2', 1311), ('STRG.31.1', 1432), ('STRG.31.2', 1432), ('STRG.31.3', 342)]
+Query Position:  2256
+kmer:  AAGGACGACGA
+
+Target Name:  [('STRG.11.1', 227), ('STRG.26.1', 290), ('STRG.26.2', 1312)]
+Query Position:  2257
+kmer:  AGGACGACGAC
+
+Target Name:  [('STRG.11.1', 227), ('STRG.26.1', 290), ('STRG.26.2', 1312)]
+Query Position:  2257
+kmer:  AGGACGACGAC
+
+Target Name:  [('STRG.11.1', 227), ('STRG.26.1', 290), ('STRG.26.2', 1312)]
+Query Position:  2257
+kmer:  AGGACGACGAC
+
+Target Name:  [('STRG.37.1', 257)]
+Query Position:  2337
+kmer:  GTGGATCTCCT
+
+Target Name:  [('STRG.57.1', 1138), ('STRG.57.2', 1138)]
+Query Position:  2348
+kmer:  CAACTCCTCCA
+
+Target Name:  [('STRG.57.1', 1138), ('STRG.57.2', 1138)]
+Query Position:  2348
+kmer:  CAACTCCTCCA
+
+Target Name:  [('STRG.18.2', 7797), ('STRG.18.1', 7851)]
+Query Position:  2357
+kmer:  CACTGAGTTCG
+
+Target Name:  [('STRG.18.2', 7797), ('STRG.18.1', 7851)]
+Query Position:  2357
+kmer:  CACTGAGTTCG
+
+Target Name:  [('STRG.13.1', 3442)]
+Query Position:  2360
+kmer:  TGAGTTCGGTC
+
+Target Name:  [('STRG.52.1', 818)]
+Query Position:  2394
+kmer:  AATCTGTGCAC
+
+Target Name:  [('STRG.52.1', 819)]
+Query Position:  2395
+kmer:  ATCTGTGCACA
+
+Target Name:  [('STRG.52.1', 820)]
+Query Position:  2396
+kmer:  TCTGTGCACAC
+
+Target Name:  [('STRG.52.1', 821)]
+Query Position:  2397
+kmer:  CTGTGCACACC
+
+Target Name:  [('STRG.18.2', 9042), ('STRG.18.1', 9096)]
+Query Position:  2441
+kmer:  AGCACATATTC
+
+Target Name:  [('STRG.18.2', 9042), ('STRG.18.1', 9096)]
+Query Position:  2441
+kmer:  AGCACATATTC
+
+Target Name:  [('STRG.9.1', 344), ('STRG.9.2', 344), ('STRG.9.3', 564)]
+Query Position:  2457
+kmer:  CAACCTGGAAA
+
+Target Name:  [('STRG.9.1', 344), ('STRG.9.2', 344), ('STRG.9.3', 564)]
+Query Position:  2457
+kmer:  CAACCTGGAAA
+
+Target Name:  [('STRG.9.1', 344), ('STRG.9.2', 344), ('STRG.9.3', 564)]
+Query Position:  2457
+kmer:  CAACCTGGAAA
+
+Target Name:  [('STRG.9.1', 345), ('STRG.9.2', 345), ('STRG.9.3', 565)]
+Query Position:  2458
+kmer:  AACCTGGAAAC
+
+Target Name:  [('STRG.9.1', 345), ('STRG.9.2', 345), ('STRG.9.3', 565)]
+Query Position:  2458
+kmer:  AACCTGGAAAC
+
+Target Name:  [('STRG.9.1', 345), ('STRG.9.2', 345), ('STRG.9.3', 565)]
+Query Position:  2458
+kmer:  AACCTGGAAAC
+
+Target Name:  [('STRG.13.2', 1745)]
+Query Position:  2475
+kmer:  CGATCATCTGG
+
+Target Name:  [('STRG.18.2', 10425), ('STRG.18.1', 10479)]
+Query Position:  2481
+kmer:  TCTGGAGGAAC
+
+Target Name:  [('STRG.18.2', 10425), ('STRG.18.1', 10479)]
+Query Position:  2481
+kmer:  TCTGGAGGAAC
+
+Target Name:  [('STRG.20.1', 4703), ('STRG.20.2', 4703)]
+Query Position:  2484
+kmer:  GGAGGAACTGG
+
+Target Name:  [('STRG.20.1', 4703), ('STRG.20.2', 4703)]
+Query Position:  2484
+kmer:  GGAGGAACTGG
+
+Target Name:  [('STRG.20.3', 480), ('STRG.20.1', 10198), ('STRG.20.2', 10783)]
+Query Position:  2487
+kmer:  GGAACTGGCGG
+
+Target Name:  [('STRG.20.3', 480), ('STRG.20.1', 10198), ('STRG.20.2', 10783)]
+Query Position:  2487
+kmer:  GGAACTGGCGG
+
+Target Name:  [('STRG.20.3', 480), ('STRG.20.1', 10198), ('STRG.20.2', 10783)]
+Query Position:  2487
+kmer:  GGAACTGGCGG
+
+Target Name:  [('STRG.20.3', 481), ('STRG.20.1', 10199), ('STRG.20.2', 10784)]
+Query Position:  2488
+kmer:  GAACTGGCGGC
+
+Target Name:  [('STRG.20.3', 481), ('STRG.20.1', 10199), ('STRG.20.2', 10784)]
+Query Position:  2488
+kmer:  GAACTGGCGGC
+
+Target Name:  [('STRG.20.3', 481), ('STRG.20.1', 10199), ('STRG.20.2', 10784)]
+Query Position:  2488
+kmer:  GAACTGGCGGC
+
+Target Name:  [('STRG.20.3', 482), ('STRG.20.1', 10200), ('STRG.20.2', 10785)]
+Query Position:  2489
+kmer:  AACTGGCGGCG
+
+Target Name:  [('STRG.20.3', 482), ('STRG.20.1', 10200), ('STRG.20.2', 10785)]
+Query Position:  2489
+kmer:  AACTGGCGGCG
+
+Target Name:  [('STRG.20.3', 482), ('STRG.20.1', 10200), ('STRG.20.2', 10785)]
+Query Position:  2489
+kmer:  AACTGGCGGCG
+
+Target Name:  [('STRG.36.1', 409)]
+Query Position:  2509
+kmer:  ACCTTTGCGGT
+
+Target Name:  [('STRG.31.1', 1952), ('STRG.31.2', 1952), ('STRG.31.3', 862), ('STRG.48.1', 1123), ('STRG.48.2', 1123)]
+Query Position:  2518
+kmer:  GTGAACATGAC
+
+Target Name:  [('STRG.31.1', 1952), ('STRG.31.2', 1952), ('STRG.31.3', 862), ('STRG.48.1', 1123), ('STRG.48.2', 1123)]
+Query Position:  2518
+kmer:  GTGAACATGAC
+
+Target Name:  [('STRG.31.1', 1952), ('STRG.31.2', 1952), ('STRG.31.3', 862), ('STRG.48.1', 1123), ('STRG.48.2', 1123)]
+Query Position:  2518
+kmer:  GTGAACATGAC
+
+Target Name:  [('STRG.31.1', 1952), ('STRG.31.2', 1952), ('STRG.31.3', 862), ('STRG.48.1', 1123), ('STRG.48.2', 1123)]
+Query Position:  2518
+kmer:  GTGAACATGAC
+
+Target Name:  [('STRG.31.1', 1952), ('STRG.31.2', 1952), ('STRG.31.3', 862), ('STRG.48.1', 1123), ('STRG.48.2', 1123)]
+Query Position:  2518
+kmer:  GTGAACATGAC
+
+Target Name:  [('STRG.33.1', 1430), ('STRG.33.2', 1430)]
+Query Position:  2656
+kmer:  GACAGCATCGT
+
+Target Name:  [('STRG.33.1', 1430), ('STRG.33.2', 1430)]
+Query Position:  2656
+kmer:  GACAGCATCGT
+
+Target Name:  [('STRG.33.1', 1431), ('STRG.33.2', 1431)]
+Query Position:  2657
+kmer:  ACAGCATCGTT
+
+Target Name:  [('STRG.33.1', 1431), ('STRG.33.2', 1431)]
+Query Position:  2657
+kmer:  ACAGCATCGTT
+
+Target Name:  [('STRG.48.1', 2573)]
+Query Position:  2681
+kmer:  ATCCGCCTCGC
+
+Target Name:  [('STRG.15.1', 879)]
+Query Position:  2699
+kmer:  TCCACGACTTG
+
+Target Name:  [('STRG.20.1', 3886), ('STRG.20.2', 3886)]
+Query Position:  2718
+kmer:  TGCACTGCAGC
+
+Target Name:  [('STRG.20.1', 3886), ('STRG.20.2', 3886)]
+Query Position:  2718
+kmer:  TGCACTGCAGC
+
+Target Name:  [('STRG.18.2', 16049), ('STRG.18.1', 16103)]
+Query Position:  2719
+kmer:  GCACTGCAGCT
+
+Target Name:  [('STRG.18.2', 16049), ('STRG.18.1', 16103)]
+Query Position:  2719
+kmer:  GCACTGCAGCT
+
+Target Name:  [('STRG.31.1', 677), ('STRG.31.2', 677)]
+Query Position:  2724
+kmer:  GCAGCTTTTTG
+
+Target Name:  [('STRG.31.1', 677), ('STRG.31.2', 677)]
+Query Position:  2724
+kmer:  GCAGCTTTTTG
+
+Target Name:  [('STRG.20.1', 2108), ('STRG.20.2', 2108)]
+Query Position:  2750
+kmer:  ATGCCAGCTTC
+
+Target Name:  [('STRG.20.1', 2108), ('STRG.20.2', 2108)]
+Query Position:  2750
+kmer:  ATGCCAGCTTC
+
+Target Name:  [('STRG.22.1', 665)]
+Query Position:  2751
+kmer:  TGCCAGCTTCT
+
+Target Name:  [('STRG.34.1', 533)]
+Query Position:  2794
+kmer:  ACCTGCGACTT
+
+Target Name:  [('STRG.48.1', 1740), ('STRG.48.2', 1740)]
+Query Position:  2796
+kmer:  CTGCGACTTTG
+
+Target Name:  [('STRG.48.1', 1740), ('STRG.48.2', 1740)]
+Query Position:  2796
+kmer:  CTGCGACTTTG
+
+Target Name:  [('STRG.40.1', 887)]
+Query Position:  2805
+kmer:  TGCCGCATCCG
+
+Target Name:  [('STRG.20.3', 4606), ('STRG.20.1', 14324), ('STRG.20.2', 14909)]
+Query Position:  2809
+kmer:  GCATCCGGAGG
+
+Target Name:  [('STRG.20.3', 4606), ('STRG.20.1', 14324), ('STRG.20.2', 14909)]
+Query Position:  2809
+kmer:  GCATCCGGAGG
+
+Target Name:  [('STRG.20.3', 4606), ('STRG.20.1', 14324), ('STRG.20.2', 14909)]
+Query Position:  2809
+kmer:  GCATCCGGAGG
+
+Target Name:  [('STRG.52.1', 1299)]
+Query Position:  2811
+kmer:  ATCCGGAGGTC
+
+Target Name:  [('STRG.37.1', 765)]
+Query Position:  2833
+kmer:  ATGGGGCGCTA
+
+Target Name:  [('STRG.14.1', 1564)]
+Query Position:  2838
+kmer:  GCGCTATCTGG
+
+Target Name:  [('STRG.14.1', 1565)]
+Query Position:  2839
+kmer:  CGCTATCTGGC
+
+Target Name:  [('STRG.23.3', 947), ('STRG.23.1', 720), ('STRG.23.2', 720)]
+Query Position:  2910
+kmer:  CGGCGAGGTGT
+
+Target Name:  [('STRG.23.3', 947), ('STRG.23.1', 720), ('STRG.23.2', 720)]
+Query Position:  2910
+kmer:  CGGCGAGGTGT
+
+Target Name:  [('STRG.23.3', 947), ('STRG.23.1', 720), ('STRG.23.2', 720)]
+Query Position:  2910
+kmer:  CGGCGAGGTGT
+
+Target Name:  [('STRG.53.1', 685), ('STRG.53.2', 685)]
+Query Position:  2967
+kmer:  TCCTGCAGTTC
+
+Target Name:  [('STRG.53.1', 685), ('STRG.53.2', 685)]
+Query Position:  2967
+kmer:  TCCTGCAGTTC
+
+Target Name:  [('STRG.53.1', 686), ('STRG.53.2', 686)]
+Query Position:  2968
+kmer:  CCTGCAGTTCG
+
+Target Name:  [('STRG.53.1', 686), ('STRG.53.2', 686)]
+Query Position:  2968
+kmer:  CCTGCAGTTCG
+
+Target Name:  [('STRG.11.1', 231)]
+Query Position:  2977
+kmer:  CGACGACGATG
+
+Target Name:  [('STRG.60.1', 871)]
+Query Position:  2986
+kmer:  TGGCCAGCGGA
+
+Target Name:  [('STRG.3.1', 176)]
+Query Position:  3006
+kmer:  ACATCGAGGTG
+
+Target Name:  [('STRG.20.1', 282), ('STRG.20.2', 282)]
+Query Position:  3053
+kmer:  GATCCACGGGG
+
+Target Name:  [('STRG.20.1', 282), ('STRG.20.2', 282)]
+Query Position:  3053
+kmer:  GATCCACGGGG
+
+Target Name:  [('STRG.20.1', 283), ('STRG.20.2', 283)]
+Query Position:  3054
+kmer:  ATCCACGGGGT
+
+Target Name:  [('STRG.20.1', 283), ('STRG.20.2', 283)]
+Query Position:  3054
+kmer:  ATCCACGGGGT
+
+Target Name:  [('STRG.17.1', 204)]
+Query Position:  3068
+kmer:  ATAACGCAGCT
+
+Target Name:  [('STRG.17.1', 205)]
+Query Position:  3069
+kmer:  TAACGCAGCTC
+
+Target Name:  [('STRG.12.1', 983)]
+Query Position:  3081
+kmer:  ATGTGGACGTC
+
+Target Name:  [('STRG.20.3', 3682), ('STRG.20.1', 13400), ('STRG.20.2', 13985)]
+Query Position:  3086
+kmer:  GACGTCAAGGT
+
+Target Name:  [('STRG.20.3', 3682), ('STRG.20.1', 13400), ('STRG.20.2', 13985)]
+Query Position:  3086
+kmer:  GACGTCAAGGT
+
+Target Name:  [('STRG.20.3', 3682), ('STRG.20.1', 13400), ('STRG.20.2', 13985)]
+Query Position:  3086
+kmer:  GACGTCAAGGT
+
+Target Name:  [('STRG.54.1', 882)]
+Query Position:  3088
+kmer:  CGTCAAGGTGC
+
+Target Name:  [('STRG.59.1', 2319), ('STRG.59.2', 3107)]
+Query Position:  3092
+kmer:  AAGGTGCAGAA
+
+Target Name:  [('STRG.59.1', 2319), ('STRG.59.2', 3107)]
+Query Position:  3092
+kmer:  AAGGTGCAGAA
+
+Target Name:  [('STRG.59.1', 2320), ('STRG.59.2', 3108)]
+Query Position:  3093
+kmer:  AGGTGCAGAAG
+
+Target Name:  [('STRG.59.1', 2320), ('STRG.59.2', 3108)]
+Query Position:  3093
+kmer:  AGGTGCAGAAG
+
+Target Name:  [('STRG.51.1', 196)]
+Query Position:  3096
+kmer:  TGCAGAAGAAG
+
+Target Name:  [('STRG.20.1', 6460), ('STRG.20.2', 6460)]
+Query Position:  3099
+kmer:  AGAAGAAGATG
+
+Target Name:  [('STRG.20.1', 6460), ('STRG.20.2', 6460)]
+Query Position:  3099
+kmer:  AGAAGAAGATG
+
+Target Name:  [('STRG.24.1', 1449)]
+Query Position:  3100
+kmer:  GAAGAAGATGA
+
+Target Name:  [('STRG.42.1', 980), ('STRG.42.2', 2182)]
+Query Position:  3121
+kmer:  GGCCACCAGAA
+
+Target Name:  [('STRG.42.1', 980), ('STRG.42.2', 2182)]
+Query Position:  3121
+kmer:  GGCCACCAGAA
+
+Target Name:  [('STRG.60.1', 701)]
+Query Position:  3166
+kmer:  GCGGGAGCTGA
+
+Target Name:  [('STRG.44.1', 3208), ('STRG.44.2', 3208)]
+Query Position:  3196
+kmer:  CTATCAAGGAT
+
+Target Name:  [('STRG.44.1', 3208), ('STRG.44.2', 3208)]
+Query Position:  3196
+kmer:  CTATCAAGGAT
+
+Target Name:  [('STRG.33.1', 4519), ('STRG.33.2', 4333)]
+Query Position:  3213
+kmer:  TGGACCTCATC
+
+Target Name:  [('STRG.33.1', 4519), ('STRG.33.2', 4333)]
+Query Position:  3213
+kmer:  TGGACCTCATC
+
+Target Name:  [('STRG.54.1', 165)]
+Query Position:  3214
+kmer:  GGACCTCATCG
+
+Target Name:  [('STRG.54.1', 166)]
+Query Position:  3215
+kmer:  GACCTCATCGA
+
+Target Name:  [('STRG.20.2', 10009)]
+Query Position:  3226
+kmer:  TGCCATTGCCC
+
+Target Name:  [('STRG.20.2', 10010)]
+Query Position:  3227
+kmer:  GCCATTGCCCG
+
+Target Name:  [('STRG.20.2', 10011)]
+Query Position:  3228
+kmer:  CCATTGCCCGA
+
+Target Name:  [('STRG.20.2', 9950)]
+Query Position:  3299
+kmer:  AAGGAAACCAA
+
+Target Name:  [('STRG.20.2', 9951)]
+Query Position:  3300
+kmer:  AGGAAACCAAG
+
+Target Name:  [('STRG.18.2', 3026), ('STRG.18.1', 3026)]
+Query Position:  3307
+kmer:  CAAGCAGTGGA
+
+Target Name:  [('STRG.18.2', 3026), ('STRG.18.1', 3026)]
+Query Position:  3307
+kmer:  CAAGCAGTGGA
+
+Target Name:  [('STRG.18.2', 3027), ('STRG.18.1', 3027)]
+Query Position:  3308
+kmer:  AAGCAGTGGAA
+
+Target Name:  [('STRG.18.2', 3027), ('STRG.18.1', 3027)]
+Query Position:  3308
+kmer:  AAGCAGTGGAA
+
+Target Name:  [('STRG.9.1', 1029), ('STRG.9.2', 1029), ('STRG.9.3', 1249)]
+Query Position:  3311
+kmer:  CAGTGGAACGG
+
+Target Name:  [('STRG.9.1', 1029), ('STRG.9.2', 1029), ('STRG.9.3', 1249)]
+Query Position:  3311
+kmer:  CAGTGGAACGG
+
+Target Name:  [('STRG.9.1', 1029), ('STRG.9.2', 1029), ('STRG.9.3', 1249)]
+Query Position:  3311
+kmer:  CAGTGGAACGG
+
+Target Name:  [('STRG.23.3', 2287), ('STRG.23.1', 2060), ('STRG.23.2', 2060)]
+Query Position:  3321
+kmer:  GCATCATTGGC
+
+Target Name:  [('STRG.23.3', 2287), ('STRG.23.1', 2060), ('STRG.23.2', 2060)]
+Query Position:  3321
+kmer:  GCATCATTGGC
+
+Target Name:  [('STRG.23.3', 2287), ('STRG.23.1', 2060), ('STRG.23.2', 2060)]
+Query Position:  3321
+kmer:  GCATCATTGGC
+
+Target Name:  [('STRG.23.3', 2288), ('STRG.23.1', 2061), ('STRG.23.2', 2061)]
+Query Position:  3322
+kmer:  CATCATTGGCG
+
+Target Name:  [('STRG.23.3', 2288), ('STRG.23.1', 2061), ('STRG.23.2', 2061)]
+Query Position:  3322
+kmer:  CATCATTGGCG
+
+Target Name:  [('STRG.23.3', 2288), ('STRG.23.1', 2061), ('STRG.23.2', 2061)]
+Query Position:  3322
+kmer:  CATCATTGGCG
+
+Target Name:  [('STRG.23.3', 2289), ('STRG.23.1', 2062), ('STRG.23.2', 2062)]
+Query Position:  3323
+kmer:  ATCATTGGCGA
+
+Target Name:  [('STRG.23.3', 2289), ('STRG.23.1', 2062), ('STRG.23.2', 2062)]
+Query Position:  3323
+kmer:  ATCATTGGCGA
+
+Target Name:  [('STRG.23.3', 2289), ('STRG.23.1', 2062), ('STRG.23.2', 2062)]
+Query Position:  3323
+kmer:  ATCATTGGCGA
+
+Target Name:  [('STRG.36.1', 1221)]
+Query Position:  3350
+kmer:  AGTGGTACCGA
+
+Target Name:  [('STRG.13.1', 3434)]
+Query Position:  3355
+kmer:  TACCGAATTGA
+
+Target Name:  [('STRG.13.1', 3435)]
+Query Position:  3356
+kmer:  ACCGAATTGAG
+
+Target Name:  [('STRG.20.1', 1562), ('STRG.20.2', 1562)]
+Query Position:  3405
+kmer:  CACATGGGAAT
+
+Target Name:  [('STRG.20.1', 1562), ('STRG.20.2', 1562)]
+Query Position:  3405
+kmer:  CACATGGGAAT
+
+Target Name:  [('STRG.53.2', 1358)]
+Query Position:  3472
+kmer:  TCATGCAGCTG
+
+Target Name:  [('STRG.36.1', 170)]
+Query Position:  3514
+kmer:  ATGTGGAGAAG
+
+Target Name:  [('STRG.10.3', 1206), ('STRG.10.2', 1086)]
+Query Position:  3537
+kmer:  TATCTGGATCC
+
+Target Name:  [('STRG.10.3', 1206), ('STRG.10.2', 1086)]
+Query Position:  3537
+kmer:  TATCTGGATCC
+
+Target Name:  [('STRG.33.1', 3958), ('STRG.33.2', 3772)]
+Query Position:  3562
+kmer:  TCTGGATCTGG
+
+Target Name:  [('STRG.33.1', 3958), ('STRG.33.2', 3772)]
+Query Position:  3562
+kmer:  TCTGGATCTGG
+
+Target Name:  [('STRG.18.2', 4044), ('STRG.18.1', 4098)]
+Query Position:  3564
+kmer:  TGGATCTGGAT
+
+Target Name:  [('STRG.18.2', 4044), ('STRG.18.1', 4098)]
+Query Position:  3564
+kmer:  TGGATCTGGAT
+
+Target Name:  [('STRG.18.2', 4045), ('STRG.18.1', 4099)]
+Query Position:  3565
+kmer:  GGATCTGGATT
+
+Target Name:  [('STRG.18.2', 4045), ('STRG.18.1', 4099)]
+Query Position:  3565
+kmer:  GGATCTGGATT
+
+Target Name:  [('STRG.33.1', 1345), ('STRG.33.2', 1345)]
+Query Position:  3578
+kmer:  CATATCGGTGT
+
+Target Name:  [('STRG.33.1', 1345), ('STRG.33.2', 1345)]
+Query Position:  3578
+kmer:  CATATCGGTGT
+
+Target Name:  [('STRG.18.2', 8449), ('STRG.18.1', 8503)]
+Query Position:  3588
+kmer:  TTGGTGATGAC
+
+Target Name:  [('STRG.18.2', 8449), ('STRG.18.1', 8503)]
+Query Position:  3588
+kmer:  TTGGTGATGAC
+
+Target Name:  [('STRG.18.2', 8450), ('STRG.18.1', 8504)]
+Query Position:  3589
+kmer:  TGGTGATGACC
+
+Target Name:  [('STRG.18.2', 8450), ('STRG.18.1', 8504)]
+Query Position:  3589
+kmer:  TGGTGATGACC
+
+Target Name:  [('STRG.31.2', 3705), ('STRG.31.3', 2615)]
+Query Position:  3624
+kmer:  ATCTCCAAAAT
+
+Target Name:  [('STRG.31.2', 3705), ('STRG.31.3', 2615)]
+Query Position:  3624
+kmer:  ATCTCCAAAAT
+
+Target Name:  [('STRG.48.1', 2567)]
+Query Position:  3640
+kmer:  GGGAGAATCCG
+
+Target Name:  [('STRG.48.1', 2568)]
+Query Position:  3641
+kmer:  GGAGAATCCGC
+
+Target Name:  [('STRG.56.1', 684), ('STRG.56.2', 684), ('STRG.56.3', 1882)]
+Query Position:  3680
+kmer:  GGAGAACCAGT
+
+Target Name:  [('STRG.56.1', 684), ('STRG.56.2', 684), ('STRG.56.3', 1882)]
+Query Position:  3680
+kmer:  GGAGAACCAGT
+
+Target Name:  [('STRG.56.1', 684), ('STRG.56.2', 684), ('STRG.56.3', 1882)]
+Query Position:  3680
+kmer:  GGAGAACCAGT
+
+Target Name:  [('STRG.18.2', 1937), ('STRG.18.1', 1937)]
+Query Position:  3686
+kmer:  CCAGTGGCACA
+
+Target Name:  [('STRG.18.2', 1937), ('STRG.18.1', 1937)]
+Query Position:  3686
+kmer:  CCAGTGGCACA
+
+Target Name:  [('STRG.32.2', 301), ('STRG.32.1', 301)]
+Query Position:  3695
+kmer:  CATCCACAACA
+
+Target Name:  [('STRG.32.2', 301), ('STRG.32.1', 301)]
+Query Position:  3695
+kmer:  CATCCACAACA
+
+Target Name:  [('STRG.2.1', 2083), ('STRG.2.2', 2083)]
+Query Position:  3709
+kmer:  GCTGGCTGACT
+
+Target Name:  [('STRG.2.1', 2083), ('STRG.2.2', 2083)]
+Query Position:  3709
+kmer:  GCTGGCTGACT
+
+Target Name:  [('STRG.30.1', 197), ('STRG.14.1', 1822)]
+Query Position:  3754
+kmer:  TGCCGAGAAGT
+
+Target Name:  [('STRG.30.1', 197), ('STRG.14.1', 1822)]
+Query Position:  3754
+kmer:  TGCCGAGAAGT
+
+Target Name:  [('STRG.50.1', 125)]
+Query Position:  3764
+kmer:  TCCACAGGTGA
+
+Target Name:  [('STRG.44.1', 1968), ('STRG.44.2', 1968)]
+Query Position:  3788
+kmer:  AACCTGGCCAA
+
+Target Name:  [('STRG.44.1', 1968), ('STRG.44.2', 1968)]
+Query Position:  3788
+kmer:  AACCTGGCCAA
+
+Target Name:  [('STRG.18.2', 4683), ('STRG.18.1', 4737)]
+Query Position:  3789
+kmer:  ACCTGGCCAAA
+
+Target Name:  [('STRG.18.2', 4683), ('STRG.18.1', 4737)]
+Query Position:  3789
+kmer:  ACCTGGCCAAA
+
+Target Name:  [('STRG.18.2', 4684), ('STRG.18.1', 4738), ('STRG.60.1', 17)]
+Query Position:  3790
+kmer:  CCTGGCCAAAA
+
+Target Name:  [('STRG.18.2', 4684), ('STRG.18.1', 4738), ('STRG.60.1', 17)]
+Query Position:  3790
+kmer:  CCTGGCCAAAA
+
+Target Name:  [('STRG.18.2', 4684), ('STRG.18.1', 4738), ('STRG.60.1', 17)]
+Query Position:  3790
+kmer:  CCTGGCCAAAA
+
+Target Name:  [('STRG.60.1', 18)]
+Query Position:  3791
+kmer:  CTGGCCAAAAC
+
+Target Name:  [('STRG.60.1', 19)]
+Query Position:  3792
+kmer:  TGGCCAAAACA
+
+Target Name:  [('STRG.26.1', 825), ('STRG.26.2', 1847)]
+Query Position:  3826
+kmer:  TGCGAATGTTT
+
+Target Name:  [('STRG.26.1', 825), ('STRG.26.2', 1847)]
+Query Position:  3826
+kmer:  TGCGAATGTTT
+
+Target Name:  [('STRG.18.2', 13515), ('STRG.18.1', 13569)]
+Query Position:  3870
+kmer:  GCCAACTCCTA
+
+Target Name:  [('STRG.18.2', 13515), ('STRG.18.1', 13569)]
+Query Position:  3870
+kmer:  GCCAACTCCTA
+
+Target Name:  [('STRG.18.2', 13516), ('STRG.18.1', 13570)]
+Query Position:  3871
+kmer:  CCAACTCCTAT
+
+Target Name:  [('STRG.18.2', 13516), ('STRG.18.1', 13570)]
+Query Position:  3871
+kmer:  CCAACTCCTAT
+
+Target Name:  [('STRG.23.3', 1562), ('STRG.23.1', 1335), ('STRG.23.2', 1335)]
+Query Position:  3914
+kmer:  CAACATGAAGG
+
+Target Name:  [('STRG.23.3', 1562), ('STRG.23.1', 1335), ('STRG.23.2', 1335)]
+Query Position:  3914
+kmer:  CAACATGAAGG
+
+Target Name:  [('STRG.23.3', 1562), ('STRG.23.1', 1335), ('STRG.23.2', 1335)]
+Query Position:  3914
+kmer:  CAACATGAAGG
+
+Target Name:  [('STRG.1.1', 373)]
+Query Position:  3927
+kmer:  AGCATAACCAA
+
+Target Name:  [('STRG.44.1', 2740), ('STRG.44.2', 2740)]
+Query Position:  3937
+kmer:  ACCTGAAGGAT
+
+Target Name:  [('STRG.44.1', 2740), ('STRG.44.2', 2740)]
+Query Position:  3937
+kmer:  ACCTGAAGGAT
+
+Target Name:  [('STRG.1.1', 1100)]
+Query Position:  3941
+kmer:  GAAGGATCTGA
+
+Target Name:  [('STRG.20.3', 6524), ('STRG.20.1', 16242), ('STRG.20.2', 16827)]
+Query Position:  3946
+kmer:  ATCTGAGTGGC
+
+Target Name:  [('STRG.20.3', 6524), ('STRG.20.1', 16242), ('STRG.20.2', 16827)]
+Query Position:  3946
+kmer:  ATCTGAGTGGC
+
+Target Name:  [('STRG.20.3', 6524), ('STRG.20.1', 16242), ('STRG.20.2', 16827)]
+Query Position:  3946
+kmer:  ATCTGAGTGGC
+
+Target Name:  [('STRG.36.1', 236)]
+Query Position:  3958
+kmer:  AGAAGAAGGTC
+
+Target Name:  [('STRG.36.1', 237)]
+Query Position:  3959
+kmer:  GAAGAAGGTCA
+
+Target Name:  [('STRG.5.1', 2001)]
+Query Position:  3979
+kmer:  CCATCTACGGC
+
+Target Name:  [('STRG.18.2', 755), ('STRG.18.1', 755)]
+Query Position:  3983
+kmer:  CTACGGCGGCA
+
+Target Name:  [('STRG.18.2', 755), ('STRG.18.1', 755)]
+Query Position:  3983
+kmer:  CTACGGCGGCA
+
+Target Name:  [('STRG.18.2', 756), ('STRG.18.1', 756)]
+Query Position:  3984
+kmer:  TACGGCGGCAG
+
+Target Name:  [('STRG.18.2', 756), ('STRG.18.1', 756)]
+Query Position:  3984
+kmer:  TACGGCGGCAG
+
+Target Name:  [('STRG.18.2', 3968), ('STRG.18.1', 4022)]
+Query Position:  3986
+kmer:  CGGCGGCAGCA
+
+Target Name:  [('STRG.18.2', 3968), ('STRG.18.1', 4022)]
+Query Position:  3986
+kmer:  CGGCGGCAGCA
+
+Target Name:  [('STRG.34.1', 862)]
+Query Position:  4037
+kmer:  CCTGGCCTTCA
+
+Target Name:  [('STRG.21.2', 359), ('STRG.21.1', 359)]
+Query Position:  4044
+kmer:  TTCAATCTCAT
+
+Target Name:  [('STRG.21.2', 359), ('STRG.21.1', 359)]
+Query Position:  4044
+kmer:  TTCAATCTCAT
+
+Target Name:  [('STRG.18.2', 5051), ('STRG.18.1', 5105)]
+Query Position:  4063
+kmer:  ACGACCCATCC
+
+Target Name:  [('STRG.18.2', 5051), ('STRG.18.1', 5105)]
+Query Position:  4063
+kmer:  ACGACCCATCC
+
+Target Name:  [('STRG.18.2', 16654), ('STRG.18.1', 16708)]
+Query Position:  4092
+kmer:  CTGGAGGGAGT
+
+Target Name:  [('STRG.18.2', 16654), ('STRG.18.1', 16708)]
+Query Position:  4092
+kmer:  CTGGAGGGAGT
+
+Target Name:  [('STRG.46.1', 1000)]
+Query Position:  4129
+kmer:  ACTACATGTTC
+
+Target Name:  [('STRG.20.3', 1630), ('STRG.20.1', 11348), ('STRG.20.2', 11933)]
+Query Position:  4136
+kmer:  GTTCCTGATGG
+
+Target Name:  [('STRG.20.3', 1630), ('STRG.20.1', 11348), ('STRG.20.2', 11933)]
+Query Position:  4136
+kmer:  GTTCCTGATGG
+
+Target Name:  [('STRG.20.3', 1630), ('STRG.20.1', 11348), ('STRG.20.2', 11933)]
+Query Position:  4136
+kmer:  GTTCCTGATGG
+
+Target Name:  [('STRG.44.1', 794), ('STRG.44.2', 794)]
+Query Position:  4144
+kmer:  TGGAGACCACC
+
+Target Name:  [('STRG.44.1', 794), ('STRG.44.2', 794)]
+Query Position:  4144
+kmer:  TGGAGACCACC
+
+Target Name:  [('STRG.9.2', 2149), ('STRG.9.3', 2369)]
+Query Position:  4174
+kmer:  AGCAGAACTGC
+
+Target Name:  [('STRG.9.2', 2149), ('STRG.9.3', 2369)]
+Query Position:  4174
+kmer:  AGCAGAACTGC
+
+Target Name:  [('STRG.9.2', 2150), ('STRG.9.3', 2370)]
+Query Position:  4175
+kmer:  GCAGAACTGCG
+
+Target Name:  [('STRG.9.2', 2150), ('STRG.9.3', 2370)]
+Query Position:  4175
+kmer:  GCAGAACTGCG
+
+Target Name:  [('STRG.20.1', 7291), ('STRG.20.2', 7291)]
+Query Position:  4203
+kmer:  GAAAAGTTTGG
+
+Target Name:  [('STRG.20.1', 7291), ('STRG.20.2', 7291)]
+Query Position:  4203
+kmer:  GAAAAGTTTGG
+
+Target Name:  [('STRG.5.1', 2249)]
+Query Position:  4206
+kmer:  AAGTTTGGGGA
+
+Target Name:  [('STRG.1.1', 3221)]
+Query Position:  4214
+kmer:  GGAGAAGCACT
+
+Target Name:  [('STRG.37.1', 556)]
+Query Position:  4222
+kmer:  ACTACGCCATC
+
+Target Name:  [('STRG.48.1', 1728), ('STRG.48.2', 1728)]
+Query Position:  4241
+kmer:  CTTCGGTGCGG
+
+Target Name:  [('STRG.48.1', 1728), ('STRG.48.2', 1728)]
+Query Position:  4241
+kmer:  CTTCGGTGCGG
+
+Target Name:  [('STRG.48.1', 1729), ('STRG.48.2', 1729)]
+Query Position:  4242
+kmer:  TTCGGTGCGGA
+
+Target Name:  [('STRG.48.1', 1729), ('STRG.48.2', 1729)]
+Query Position:  4242
+kmer:  TTCGGTGCGGA
+
+Target Name:  [('STRG.26.2', 944)]
+Query Position:  4245
+kmer:  GGTGCGGAGTA
+
+Target Name:  [('STRG.23.3', 2109), ('STRG.23.1', 1882), ('STRG.23.2', 1882)]
+Query Position:  4272
+kmer:  GTGGCCATCCT
+
+Target Name:  [('STRG.23.3', 2109), ('STRG.23.1', 1882), ('STRG.23.2', 1882)]
+Query Position:  4272
+kmer:  GTGGCCATCCT
+
+Target Name:  [('STRG.23.3', 2109), ('STRG.23.1', 1882), ('STRG.23.2', 1882)]
+Query Position:  4272
+kmer:  GTGGCCATCCT
+
+Target Name:  [('STRG.16.1', 211), ('STRG.16.2', 211)]
+Query Position:  4276
+kmer:  CCATCCTGAAG
+
+Target Name:  [('STRG.16.1', 211), ('STRG.16.2', 211)]
+Query Position:  4276
+kmer:  CCATCCTGAAG
+
+Target Name:  [('STRG.52.1', 277)]
+Query Position:  4290
+kmer:  AGTGAGCGGGG
+
+Target Name:  [('STRG.18.2', 17130), ('STRG.18.1', 17184)]
+Query Position:  4316
+kmer:  CAAGCAAAAGT
+
+Target Name:  [('STRG.18.2', 17130), ('STRG.18.1', 17184)]
+Query Position:  4316
+kmer:  CAAGCAAAAGT
+
+Target Name:  [('STRG.20.3', 5432), ('STRG.20.1', 15150), ('STRG.20.2', 15735), ('STRG.48.1', 179), ('STRG.48.2', 179)]
+Query Position:  4318
+kmer:  AGCAAAAGTGG
+
+Target Name:  [('STRG.20.3', 5432), ('STRG.20.1', 15150), ('STRG.20.2', 15735), ('STRG.48.1', 179), ('STRG.48.2', 179)]
+Query Position:  4318
+kmer:  AGCAAAAGTGG
+
+Target Name:  [('STRG.20.3', 5432), ('STRG.20.1', 15150), ('STRG.20.2', 15735), ('STRG.48.1', 179), ('STRG.48.2', 179)]
+Query Position:  4318
+kmer:  AGCAAAAGTGG
+
+Target Name:  [('STRG.20.3', 5432), ('STRG.20.1', 15150), ('STRG.20.2', 15735), ('STRG.48.1', 179), ('STRG.48.2', 179)]
+Query Position:  4318
+kmer:  AGCAAAAGTGG
+
+Target Name:  [('STRG.20.3', 5432), ('STRG.20.1', 15150), ('STRG.20.2', 15735), ('STRG.48.1', 179), ('STRG.48.2', 179)]
+Query Position:  4318
+kmer:  AGCAAAAGTGG
+
+Target Name:  [('STRG.20.3', 5433), ('STRG.20.1', 15151), ('STRG.20.2', 15736)]
+Query Position:  4319
+kmer:  GCAAAAGTGGT
+
+Target Name:  [('STRG.20.3', 5433), ('STRG.20.1', 15151), ('STRG.20.2', 15736)]
+Query Position:  4319
+kmer:  GCAAAAGTGGT
+
+Target Name:  [('STRG.20.3', 5433), ('STRG.20.1', 15151), ('STRG.20.2', 15736)]
+Query Position:  4319
+kmer:  GCAAAAGTGGT
+
+Target Name:  [('STRG.4.1', 2311)]
+Query Position:  4320
+kmer:  CAAAAGTGGTG
+
+Target Name:  [('STRG.20.3', 4025), ('STRG.20.1', 13743), ('STRG.20.2', 14328)]
+Query Position:  4333
+kmer:  AGAACCCCAAT
+
+Target Name:  [('STRG.20.3', 4025), ('STRG.20.1', 13743), ('STRG.20.2', 14328)]
+Query Position:  4333
+kmer:  AGAACCCCAAT
+
+Target Name:  [('STRG.20.3', 4025), ('STRG.20.1', 13743), ('STRG.20.2', 14328)]
+Query Position:  4333
+kmer:  AGAACCCCAAT
+
+Target Name:  [('STRG.36.1', 2259)]
+Query Position:  4334
+kmer:  GAACCCCAATG
+
+Target Name:  [('STRG.36.1', 2260)]
+Query Position:  4335
+kmer:  AACCCCAATGC
+
+Target Name:  [('STRG.36.1', 2261)]
+Query Position:  4336
+kmer:  ACCCCAATGCC
+
+Target Name:  [('STRG.36.1', 2262)]
+Query Position:  4337
+kmer:  CCCCAATGCCA
+
+Target Name:  [('STRG.31.1', 976), ('STRG.31.2', 976)]
+Query Position:  4343
+kmer:  TGCCAGCTGCT
+
+Target Name:  [('STRG.31.1', 976), ('STRG.31.2', 976)]
+Query Position:  4343
+kmer:  TGCCAGCTGCT
+
+Target Name:  [('STRG.31.1', 977), ('STRG.31.2', 977)]
+Query Position:  4344
+kmer:  GCCAGCTGCTT
+
+Target Name:  [('STRG.31.1', 977), ('STRG.31.2', 977)]
+Query Position:  4344
+kmer:  GCCAGCTGCTT
+
+Target Name:  [('STRG.31.1', 978), ('STRG.31.2', 978)]
+Query Position:  4345
+kmer:  CCAGCTGCTTC
+
+Target Name:  [('STRG.31.1', 978), ('STRG.31.2', 978)]
+Query Position:  4345
+kmer:  CCAGCTGCTTC
+
+Target Name:  [('STRG.44.1', 879), ('STRG.44.2', 879)]
+Query Position:  4371
+kmer:  GACGCCACTCC
+
+Target Name:  [('STRG.44.1', 879), ('STRG.44.2', 879)]
+Query Position:  4371
+kmer:  GACGCCACTCC
+
+Target Name:  [('STRG.57.1', 1068), ('STRG.57.2', 1068)]
+Query Position:  4387
+kmer:  TGACCTTCGGC
+
+Target Name:  [('STRG.57.1', 1068), ('STRG.57.2', 1068)]
+Query Position:  4387
+kmer:  TGACCTTCGGC
+
+Target Name:  [('STRG.27.1', 1628)]
+Query Position:  4391
+kmer:  CTTCGGCGAGC
+
+Target Name:  [('STRG.23.3', 1071), ('STRG.23.1', 844), ('STRG.23.2', 844)]
+Query Position:  4428
+kmer:  GCCGGAATCCT
+
+Target Name:  [('STRG.23.3', 1071), ('STRG.23.1', 844), ('STRG.23.2', 844)]
+Query Position:  4428
+kmer:  GCCGGAATCCT
+
+Target Name:  [('STRG.23.3', 1071), ('STRG.23.1', 844), ('STRG.23.2', 844)]
+Query Position:  4428
+kmer:  GCCGGAATCCT
+
+Target Name:  [('STRG.23.3', 1072), ('STRG.23.1', 845), ('STRG.23.2', 845)]
+Query Position:  4429
+kmer:  CCGGAATCCTG
+
+Target Name:  [('STRG.23.3', 1072), ('STRG.23.1', 845), ('STRG.23.2', 845)]
+Query Position:  4429
+kmer:  CCGGAATCCTG
+
+Target Name:  [('STRG.23.3', 1072), ('STRG.23.1', 845), ('STRG.23.2', 845)]
+Query Position:  4429
+kmer:  CCGGAATCCTG
+
+Target Name:  [('STRG.52.1', 2183)]
+Query Position:  4434
+kmer:  ATCCTGATCGC
+
+Target Name:  [('STRG.52.1', 2184), ('STRG.56.1', 329), ('STRG.56.2', 329), ('STRG.56.3', 1527)]
+Query Position:  4435
+kmer:  TCCTGATCGCC
+
+Target Name:  [('STRG.52.1', 2184), ('STRG.56.1', 329), ('STRG.56.2', 329), ('STRG.56.3', 1527)]
+Query Position:  4435
+kmer:  TCCTGATCGCC
+
+Target Name:  [('STRG.52.1', 2184), ('STRG.56.1', 329), ('STRG.56.2', 329), ('STRG.56.3', 1527)]
+Query Position:  4435
+kmer:  TCCTGATCGCC
+
+Target Name:  [('STRG.52.1', 2184), ('STRG.56.1', 329), ('STRG.56.2', 329), ('STRG.56.3', 1527)]
+Query Position:  4435
+kmer:  TCCTGATCGCC
+
+Target Name:  [('STRG.54.1', 971)]
+Query Position:  4441
+kmer:  TCGCCTTCCTC
+
+Target Name:  [('STRG.44.1', 2405), ('STRG.44.2', 2405)]
+Query Position:  4442
+kmer:  CGCCTTCCTCA
+
+Target Name:  [('STRG.44.1', 2405), ('STRG.44.2', 2405)]
+Query Position:  4442
+kmer:  CGCCTTCCTCA
+
+Target Name:  [('STRG.49.2', 132), ('STRG.49.1', 52)]
+Query Position:  4456
+kmer:  GCATTACGGAG
+
+Target Name:  [('STRG.49.2', 132), ('STRG.49.1', 52)]
+Query Position:  4456
+kmer:  GCATTACGGAG
+
+Target Name:  [('STRG.27.1', 1724)]
+Query Position:  4459
+kmer:  TTACGGAGTTT
+
+Target Name:  [('STRG.31.1', 11), ('STRG.31.2', 11)]
+Query Position:  4481
+kmer:  GCAGCAAGTGG
+
+Target Name:  [('STRG.31.1', 11), ('STRG.31.2', 11)]
+Query Position:  4481
+kmer:  GCAGCAAGTGG
+
+Target Name:  [('STRG.31.1', 12), ('STRG.31.2', 12)]
+Query Position:  4482
+kmer:  CAGCAAGTGGC
+
+Target Name:  [('STRG.31.1', 12), ('STRG.31.2', 12)]
+Query Position:  4482
+kmer:  CAGCAAGTGGC
+
+Target Name:  [('STRG.5.1', 2857)]
+Query Position:  4483
+kmer:  AGCAAGTGGCC
+
+Target Name:  [('STRG.59.2', 417)]
+Query Position:  4560
+kmer:  TCACATTTTGC
+
+Target Name:  [('STRG.59.2', 418)]
+Query Position:  4561
+kmer:  CACATTTTGCT
+
+Target Name:  [('STRG.28.1', 921)]
+Query Position:  4562
+kmer:  ACATTTTGCTC
+
+Target Name:  [('STRG.28.1', 922), ('STRG.59.1', 2835), ('STRG.59.2', 3623)]
+Query Position:  4563
+kmer:  CATTTTGCTCA
+
+Target Name:  [('STRG.28.1', 922), ('STRG.59.1', 2835), ('STRG.59.2', 3623)]
+Query Position:  4563
+kmer:  CATTTTGCTCA
+
+Target Name:  [('STRG.28.1', 922), ('STRG.59.1', 2835), ('STRG.59.2', 3623)]
+Query Position:  4563
+kmer:  CATTTTGCTCA
+
+Target Name:  [('STRG.27.1', 3042)]
+Query Position:  4587
+kmer:  AGGAAGCCTTC
+
+Target Name:  [('STRG.13.1', 1891)]
+Query Position:  4593
+kmer:  CCTTCAAGAAG
+
+Target Name:  [('STRG.24.1', 676), ('STRG.40.1', 434)]
+Query Position:  4596
+kmer:  TCAAGAAGGAG
+
+Target Name:  [('STRG.24.1', 676), ('STRG.40.1', 434)]
+Query Position:  4596
+kmer:  TCAAGAAGGAG
+
+Target Name:  [('STRG.20.1', 9082), ('STRG.20.2', 9082), ('STRG.24.1', 677), ('STRG.41.2', 831), ('STRG.41.3', 770), ('STRG.41.1', 559), ('STRG.60.1', 482)]
+Query Position:  4597
+kmer:  CAAGAAGGAGA
+
+Target Name:  [('STRG.20.1', 9082), ('STRG.20.2', 9082), ('STRG.24.1', 677), ('STRG.41.2', 831), ('STRG.41.3', 770), ('STRG.41.1', 559), ('STRG.60.1', 482)]
+Query Position:  4597
+kmer:  CAAGAAGGAGA
+
+Target Name:  [('STRG.20.1', 9082), ('STRG.20.2', 9082), ('STRG.24.1', 677), ('STRG.41.2', 831), ('STRG.41.3', 770), ('STRG.41.1', 559), ('STRG.60.1', 482)]
+Query Position:  4597
+kmer:  CAAGAAGGAGA
+
+Target Name:  [('STRG.20.1', 9082), ('STRG.20.2', 9082), ('STRG.24.1', 677), ('STRG.41.2', 831), ('STRG.41.3', 770), ('STRG.41.1', 559), ('STRG.60.1', 482)]
+Query Position:  4597
+kmer:  CAAGAAGGAGA
+
+Target Name:  [('STRG.20.1', 9082), ('STRG.20.2', 9082), ('STRG.24.1', 677), ('STRG.41.2', 831), ('STRG.41.3', 770), ('STRG.41.1', 559), ('STRG.60.1', 482)]
+Query Position:  4597
+kmer:  CAAGAAGGAGA
+
+Target Name:  [('STRG.20.1', 9082), ('STRG.20.2', 9082), ('STRG.24.1', 677), ('STRG.41.2', 831), ('STRG.41.3', 770), ('STRG.41.1', 559), ('STRG.60.1', 482)]
+Query Position:  4597
+kmer:  CAAGAAGGAGA
+
+Target Name:  [('STRG.20.1', 9082), ('STRG.20.2', 9082), ('STRG.24.1', 677), ('STRG.41.2', 831), ('STRG.41.3', 770), ('STRG.41.1', 559), ('STRG.60.1', 482)]
+Query Position:  4597
+kmer:  CAAGAAGGAGA
+
+Target Name:  [('STRG.45.1', 303)]
+Query Position:  4603
+kmer:  GGAGATCCGCT
+
+Target Name:  [('STRG.59.1', 3510), ('STRG.59.2', 4298)]
+Query Position:  4631
+kmer:  AACAACAGGAA
+
+Target Name:  [('STRG.59.1', 3510), ('STRG.59.2', 4298)]
+Query Position:  4631
+kmer:  AACAACAGGAA
+
+Target Name:  [('STRG.44.1', 3523), ('STRG.44.2', 3523)]
+Query Position:  4644
+kmer:  CCATCGTGGCC
+
+Target Name:  [('STRG.44.1', 3523), ('STRG.44.2', 3523)]
+Query Position:  4644
+kmer:  CCATCGTGGCC
+
+Target Name:  [('STRG.44.1', 3524), ('STRG.44.2', 3524)]
+Query Position:  4645
+kmer:  CATCGTGGCCG
+
+Target Name:  [('STRG.44.1', 3524), ('STRG.44.2', 3524)]
+Query Position:  4645
+kmer:  CATCGTGGCCG
+
+Target Name:  [('STRG.59.2', 159)]
+Query Position:  4670
+kmer:  AGTGTGCGGAC
+
+Target Name:  [('STRG.23.3', 620), ('STRG.23.1', 393), ('STRG.23.2', 393)]
+Query Position:  4674
+kmer:  TGCGGACGACA
+
+Target Name:  [('STRG.23.3', 620), ('STRG.23.1', 393), ('STRG.23.2', 393)]
+Query Position:  4674
+kmer:  TGCGGACGACA
+
+Target Name:  [('STRG.23.3', 620), ('STRG.23.1', 393), ('STRG.23.2', 393)]
+Query Position:  4674
+kmer:  TGCGGACGACA
+
+Target Name:  [('STRG.18.2', 11619), ('STRG.18.1', 11673)]
+Query Position:  4678
+kmer:  GACGACACCGC
+
+Target Name:  [('STRG.18.2', 11619), ('STRG.18.1', 11673)]
+Query Position:  4678
+kmer:  GACGACACCGC
+
+Target Name:  [('STRG.18.2', 2373), ('STRG.18.1', 2373)]
+Query Position:  4720
+kmer:  TCCCAAGTCGA
+
+Target Name:  [('STRG.18.2', 2373), ('STRG.18.1', 2373)]
+Query Position:  4720
+kmer:  TCCCAAGTCGA
+
+Target Name:  [('STRG.48.1', 55), ('STRG.48.2', 55)]
+Query Position:  4725
+kmer:  AGTCGAGTCGC
+
+Target Name:  [('STRG.48.1', 55), ('STRG.48.2', 55)]
+Query Position:  4725
+kmer:  AGTCGAGTCGC
+
+Target Name:  [('STRG.18.2', 2110), ('STRG.18.1', 2110)]
+Query Position:  4751
+kmer:  CGTTCCTCGGA
+
+Target Name:  [('STRG.18.2', 2110), ('STRG.18.1', 2110)]
+Query Position:  4751
+kmer:  CGTTCCTCGGA
+
+Target Name:  [('STRG.31.1', 1562), ('STRG.31.2', 1562), ('STRG.31.3', 472)]
+Query Position:  4758
+kmer:  CGGAGGAGATG
+
+Target Name:  [('STRG.31.1', 1562), ('STRG.31.2', 1562), ('STRG.31.3', 472)]
+Query Position:  4758
+kmer:  CGGAGGAGATG
+
+Target Name:  [('STRG.31.1', 1562), ('STRG.31.2', 1562), ('STRG.31.3', 472)]
+Query Position:  4758
+kmer:  CGGAGGAGATG
+
+Target Name:  [('STRG.31.1', 1563), ('STRG.31.2', 1563), ('STRG.31.3', 473), ('STRG.13.1', 104), ('STRG.14.1', 2326)]
+Query Position:  4759
+kmer:  GGAGGAGATGC
+
+Target Name:  [('STRG.31.1', 1563), ('STRG.31.2', 1563), ('STRG.31.3', 473), ('STRG.13.1', 104), ('STRG.14.1', 2326)]
+Query Position:  4759
+kmer:  GGAGGAGATGC
+
+Target Name:  [('STRG.31.1', 1563), ('STRG.31.2', 1563), ('STRG.31.3', 473), ('STRG.13.1', 104), ('STRG.14.1', 2326)]
+Query Position:  4759
+kmer:  GGAGGAGATGC
+
+Target Name:  [('STRG.31.1', 1563), ('STRG.31.2', 1563), ('STRG.31.3', 473), ('STRG.13.1', 104), ('STRG.14.1', 2326)]
+Query Position:  4759
+kmer:  GGAGGAGATGC
+
+Target Name:  [('STRG.31.1', 1563), ('STRG.31.2', 1563), ('STRG.31.3', 473), ('STRG.13.1', 104), ('STRG.14.1', 2326)]
+Query Position:  4759
+kmer:  GGAGGAGATGC
+
+Target Name:  [('STRG.20.1', 4510), ('STRG.20.2', 4510)]
+Query Position:  4778
+kmer:  GCCCAAGGATC
+
+Target Name:  [('STRG.20.1', 4510), ('STRG.20.2', 4510)]
+Query Position:  4778
+kmer:  GCCCAAGGATC
+
+Target Name:  [('STRG.36.1', 855)]
+Query Position:  4781
+kmer:  CAAGGATCAGG
+
+Target Name:  [('STRG.20.3', 8139), ('STRG.20.1', 17857), ('STRG.20.2', 18442)]
+Query Position:  4803
+kmer:  GAAGCAACAAC
+
+Target Name:  [('STRG.20.3', 8139), ('STRG.20.1', 17857), ('STRG.20.2', 18442)]
+Query Position:  4803
+kmer:  GAAGCAACAAC
+
+Target Name:  [('STRG.20.3', 8139), ('STRG.20.1', 17857), ('STRG.20.2', 18442)]
+Query Position:  4803
+kmer:  GAAGCAACAAC
+
+Target Name:  [('STRG.1.1', 821)]
+Query Position:  4822
+kmer:  GGAACAGAAGG
+
+Target Name:  [('STRG.60.1', 942)]
+Query Position:  4826
+kmer:  CAGAAGGAGGC
+
+Target Name:  [('STRG.60.1', 943)]
+Query Position:  4827
+kmer:  AGAAGGAGGCG
+
+Target Name:  [('STRG.20.3', 742), ('STRG.20.1', 10460), ('STRG.20.2', 11045)]
+Query Position:  4837
+kmer:  GCGGGTTTAAA
+
+Target Name:  [('STRG.20.3', 742), ('STRG.20.1', 10460), ('STRG.20.2', 11045)]
+Query Position:  4837
+kmer:  GCGGGTTTAAA
+
+Target Name:  [('STRG.20.3', 742), ('STRG.20.1', 10460), ('STRG.20.2', 11045)]
+Query Position:  4837
+kmer:  GCGGGTTTAAA
+
+Target Name:  [('STRG.5.1', 6374)]
+Query Position:  4856
+kmer:  GGATTATTTTA
+
+Target Name:  [('STRG.5.1', 6375)]
+Query Position:  4857
+kmer:  GATTATTTTAA
+
+Target Name:  [('STRG.59.2', 106)]
+Query Position:  4892
+kmer:  TGTACATTTAA
+
+Target Name:  [('STRG.59.2', 107)]
+Query Position:  4893
+kmer:  GTACATTTAAT
+
+Target Name:  [('STRG.2.1', 3244), ('STRG.2.2', 3244)]
+Query Position:  4903
+kmer:  TTCCCTAAAAG
+
+Target Name:  [('STRG.2.1', 3244), ('STRG.2.2', 3244)]
+Query Position:  4903
+kmer:  TTCCCTAAAAG
+
+Target Name:  [('STRG.2.1', 3245), ('STRG.2.2', 3245)]
+Query Position:  4904
+kmer:  TCCCTAAAAGA
+
+Target Name:  [('STRG.2.1', 3245), ('STRG.2.2', 3245)]
+Query Position:  4904
+kmer:  TCCCTAAAAGA
+
+Target Name:  [('STRG.2.1', 3246), ('STRG.2.2', 3246)]
+Query Position:  4905
+kmer:  CCCTAAAAGAT
+
+Target Name:  [('STRG.2.1', 3246), ('STRG.2.2', 3246)]
+Query Position:  4905
+kmer:  CCCTAAAAGAT
+
+Target Name:  [('STRG.23.3', 775), ('STRG.23.1', 548), ('STRG.23.2', 548)]
+Query Position:  4911
+kmer:  AAGATTTGTCT
+
+Target Name:  [('STRG.23.3', 775), ('STRG.23.1', 548), ('STRG.23.2', 548)]
+Query Position:  4911
+kmer:  AAGATTTGTCT
+
+Target Name:  [('STRG.23.3', 775), ('STRG.23.1', 548), ('STRG.23.2', 548)]
+Query Position:  4911
+kmer:  AAGATTTGTCT
+
+Target Name:  [('STRG.12.1', 375)]
+Query Position:  4913
+kmer:  GATTTGTCTAC
+
+Target Name:  [('STRG.12.1', 376)]
+Query Position:  4914
+kmer:  ATTTGTCTACC
+
+Target Name:  [('STRG.1.1', 4133)]
+Query Position:  4942
+kmer:  TATTTATGATT
+
+Target Name:  [('STRG.1.1', 4134)]
+Query Position:  4943
+kmer:  ATTTATGATTT
+
+Target Name:  [('STRG.30.1', 190)]
+Query Position:  4973
+kmer:  CGCTCAGTGCC
+
+Target Name:  [('STRG.30.1', 191)]
+Query Position:  4974
+kmer:  GCTCAGTGCCG
+
+Target Name:  [('STRG.30.1', 192)]
+Query Position:  4975
+kmer:  CTCAGTGCCGA
+
+Target Name:  [('STRG.46.1', 204)]
+Query Position:  5002
+kmer:  GAAAGCAACGC
+
+Target Name:  [('STRG.48.1', 588), ('STRG.48.2', 588)]
+Query Position:  5031
+kmer:  TCAATTTGGAG
+
+Target Name:  [('STRG.48.1', 588), ('STRG.48.2', 588)]
+Query Position:  5031
+kmer:  TCAATTTGGAG
+
+Target Name:  [('STRG.48.1', 589), ('STRG.48.2', 589)]
+Query Position:  5032
+kmer:  CAATTTGGAGC
+
+Target Name:  [('STRG.48.1', 589), ('STRG.48.2', 589)]
+Query Position:  5032
+kmer:  CAATTTGGAGC
+
+Target Name:  [('STRG.50.1', 31)]
+Query Position:  5051
+kmer:  GCTTGTAATTA
+
+Target Name:  [('STRG.51.1', 703)]
+Query Position:  5059
+kmer:  TTACTTGGCGG
+
+Target Name:  [('STRG.52.1', 2047)]
+Query Position:  5088
+kmer:  CGCGGGCAACA
+
+Target Name:  [('STRG.45.1', 236)]
+Query Position:  5090
+kmer:  CGGGCAACACG
+
+Target Name:  [('STRG.23.3', 2105), ('STRG.23.1', 1878), ('STRG.23.2', 1878)]
+Query Position:  5130
+kmer:  TTCGGTGGCCA
+
+Target Name:  [('STRG.23.3', 2105), ('STRG.23.1', 1878), ('STRG.23.2', 1878)]
+Query Position:  5130
+kmer:  TTCGGTGGCCA
+
+Target Name:  [('STRG.23.3', 2105), ('STRG.23.1', 1878), ('STRG.23.2', 1878)]
+Query Position:  5130
+kmer:  TTCGGTGGCCA
+
+Target Name:  [('STRG.48.1', 1533), ('STRG.48.2', 1533)]
+Query Position:  5133
+kmer:  GGTGGCCAACT
+
+Target Name:  [('STRG.48.1', 1533), ('STRG.48.2', 1533)]
+Query Position:  5133
+kmer:  GGTGGCCAACT
+
+Target Name:  [('STRG.15.1', 196)]
+Query Position:  5210
+kmer:  GGCAAGGAGAA
+
+Target Name:  [('STRG.37.1', 428)]
+Query Position:  5261
+kmer:  CCTTATTGACA
+
+Target Name:  [('STRG.37.1', 429)]
+Query Position:  5262
+kmer:  CTTATTGACAT
+
+Target Name:  [('STRG.28.1', 75)]
+Query Position:  5334
+kmer:  AGCAGCTGCAG
+
+Target Name:  [('STRG.14.1', 1684)]
+Query Position:  5354
+kmer:  GCGCCAAATGG
+
+Target Name:  [('STRG.20.1', 4243), ('STRG.20.2', 4243)]
+Query Position:  5360
+kmer:  AATGGGAGCAG
+
+Target Name:  [('STRG.20.1', 4243), ('STRG.20.2', 4243)]
+Query Position:  5360
+kmer:  AATGGGAGCAG
+
+Target Name:  [('STRG.57.1', 2269), ('STRG.57.2', 2269)]
+Query Position:  5364
+kmer:  GGAGCAGAACA
+
+Target Name:  [('STRG.57.1', 2269), ('STRG.57.2', 2269)]
+Query Position:  5364
+kmer:  GGAGCAGAACA
+
+Target Name:  [('STRG.2.1', 1618), ('STRG.2.2', 1618)]
+Query Position:  5396
+kmer:  GGAGGATGAAG
+
+Target Name:  [('STRG.2.1', 1618), ('STRG.2.2', 1618)]
+Query Position:  5396
+kmer:  GGAGGATGAAG
+
+Target Name:  [('STRG.31.1', 732), ('STRG.31.2', 732)]
+Query Position:  5400
+kmer:  GATGAAGGACG
+
+Target Name:  [('STRG.31.1', 732), ('STRG.31.2', 732)]
+Query Position:  5400
+kmer:  GATGAAGGACG
+
+Target Name:  [('STRG.15.1', 57)]
+Query Position:  5413
+kmer:  GGACCAAGAAG
+
+Target Name:  [('STRG.44.1', 3138), ('STRG.44.2', 3138)]
+Query Position:  5449
+kmer:  GTGTTGGGTAG
+
+Target Name:  [('STRG.44.1', 3138), ('STRG.44.2', 3138)]
+Query Position:  5449
+kmer:  GTGTTGGGTAG
+
+Target Name:  [('STRG.44.1', 3139), ('STRG.44.2', 3139)]
+Query Position:  5450
+kmer:  TGTTGGGTAGC
+
+Target Name:  [('STRG.44.1', 3139), ('STRG.44.2', 3139)]
+Query Position:  5450
+kmer:  TGTTGGGTAGC
+
+Target Name:  [('STRG.27.1', 1308)]
+Query Position:  5473
+kmer:  TTGGTTTGTGT
+
+Target Name:  [('STRG.20.3', 7901), ('STRG.20.1', 17619), ('STRG.20.2', 18204)]
+Query Position:  5487
+kmer:  ATGAGCAGCAA
+
+Target Name:  [('STRG.20.3', 7901), ('STRG.20.1', 17619), ('STRG.20.2', 18204)]
+Query Position:  5487
+kmer:  ATGAGCAGCAA
+
+Target Name:  [('STRG.20.3', 7901), ('STRG.20.1', 17619), ('STRG.20.2', 18204)]
+Query Position:  5487
+kmer:  ATGAGCAGCAA
+
+Target Name:  [('STRG.20.3', 7902), ('STRG.20.1', 17620), ('STRG.20.2', 18205)]
+Query Position:  5488
+kmer:  TGAGCAGCAAT
+
+Target Name:  [('STRG.20.3', 7902), ('STRG.20.1', 17620), ('STRG.20.2', 18205)]
+Query Position:  5488
+kmer:  TGAGCAGCAAT
+
+Target Name:  [('STRG.20.3', 7902), ('STRG.20.1', 17620), ('STRG.20.2', 18205)]
+Query Position:  5488
+kmer:  TGAGCAGCAAT
+
+Target Name:  [('STRG.20.3', 7903), ('STRG.20.1', 17621), ('STRG.20.2', 18206)]
+Query Position:  5489
+kmer:  GAGCAGCAATG
+
+Target Name:  [('STRG.20.3', 7903), ('STRG.20.1', 17621), ('STRG.20.2', 18206)]
+Query Position:  5489
+kmer:  GAGCAGCAATG
+
+Target Name:  [('STRG.20.3', 7903), ('STRG.20.1', 17621), ('STRG.20.2', 18206)]
+Query Position:  5489
+kmer:  GAGCAGCAATG
+
+Target Name:  [('STRG.18.2', 14590), ('STRG.18.1', 14644)]
+Query Position:  5490
+kmer:  AGCAGCAATGA
+
+Target Name:  [('STRG.18.2', 14590), ('STRG.18.1', 14644)]
+Query Position:  5490
+kmer:  AGCAGCAATGA
+
+Target Name:  [('STRG.46.1', 807), ('STRG.57.1', 1102), ('STRG.57.2', 1102)]
+Query Position:  5501
+kmer:  CAACGGCAGCG
+
+Target Name:  [('STRG.46.1', 807), ('STRG.57.1', 1102), ('STRG.57.2', 1102)]
+Query Position:  5501
+kmer:  CAACGGCAGCG
+
+Target Name:  [('STRG.46.1', 807), ('STRG.57.1', 1102), ('STRG.57.2', 1102)]
+Query Position:  5501
+kmer:  CAACGGCAGCG
+
+Target Name:  [('STRG.46.1', 808)]
+Query Position:  5502
+kmer:  AACGGCAGCGC
+
+Target Name:  [('STRG.46.1', 809)]
+Query Position:  5503
+kmer:  ACGGCAGCGCC
+
+Target Name:  [('STRG.42.2', 572)]
+Query Position:  5526
+kmer:  AAAAAACAACA
+
+Target Name:  [('STRG.12.1', 1634), ('STRG.31.2', 4465), ('STRG.31.3', 3375)]
+Query Position:  5529
+kmer:  AAACAACAACA
+
+Target Name:  [('STRG.12.1', 1634), ('STRG.31.2', 4465), ('STRG.31.3', 3375)]
+Query Position:  5529
+kmer:  AAACAACAACA
+
+Target Name:  [('STRG.12.1', 1634), ('STRG.31.2', 4465), ('STRG.31.3', 3375)]
+Query Position:  5529
+kmer:  AAACAACAACA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.20.3', 166), ('STRG.20.1', 1122), ('STRG.20.1', 2205), ('STRG.20.2', 1122), ('STRG.20.2', 2205), ('STRG.31.2', 4466), ('STRG.31.2', 4469), ('STRG.31.3', 3376), ('STRG.31.3', 3379), ('STRG.59.1', 3498), ('STRG.59.1', 3501), ('STRG.59.1', 3504), ('STRG.59.2', 4286), ('STRG.59.2', 4289), ('STRG.59.2', 4292)]
+Query Position:  5530
+kmer:  AACAACAACAA
+
+Target Name:  [('STRG.18.2', 14670), ('STRG.18.1', 14724)]
+Query Position:  5531
+kmer:  ACAACAACAAG
+
+Target Name:  [('STRG.18.2', 14670), ('STRG.18.1', 14724)]
+Query Position:  5531
+kmer:  ACAACAACAAG
+
+Target Name:  [('STRG.2.1', 2411), ('STRG.2.2', 2411), ('STRG.20.1', 159), ('STRG.20.2', 159)]
+Query Position:  5532
+kmer:  CAACAACAAGA
+
+Target Name:  [('STRG.2.1', 2411), ('STRG.2.2', 2411), ('STRG.20.1', 159), ('STRG.20.2', 159)]
+Query Position:  5532
+kmer:  CAACAACAAGA
+
+Target Name:  [('STRG.2.1', 2411), ('STRG.2.2', 2411), ('STRG.20.1', 159), ('STRG.20.2', 159)]
+Query Position:  5532
+kmer:  CAACAACAAGA
+
+Target Name:  [('STRG.2.1', 2411), ('STRG.2.2', 2411), ('STRG.20.1', 159), ('STRG.20.2', 159)]
+Query Position:  5532
+kmer:  CAACAACAAGA
+
+Target Name:  [('STRG.57.1', 337), ('STRG.57.2', 337)]
+Query Position:  5558
+kmer:  ATATAGAGTGC
+
+Target Name:  [('STRG.57.1', 337), ('STRG.57.2', 337)]
+Query Position:  5558
+kmer:  ATATAGAGTGC
+
+Target Name:  [('STRG.59.2', 400)]
+Query Position:  5579
+kmer:  GAAAAACTAAG
+
+Target Name:  [('STRG.20.3', 1721), ('STRG.20.1', 11439), ('STRG.20.2', 12024)]
+Query Position:  5598
+kmer:  AGGAATGTGAA
+
+Target Name:  [('STRG.20.3', 1721), ('STRG.20.1', 11439), ('STRG.20.2', 12024)]
+Query Position:  5598
+kmer:  AGGAATGTGAA
+
+Target Name:  [('STRG.20.3', 1721), ('STRG.20.1', 11439), ('STRG.20.2', 12024)]
+Query Position:  5598
+kmer:  AGGAATGTGAA
+
+Target Name:  [('STRG.4.1', 1454)]
+Query Position:  5606
+kmer:  GAATTTGATTT
+
+Target Name:  [('STRG.4.1', 1455)]
+Query Position:  5607
+kmer:  AATTTGATTTT
+
+Target Name:  [('STRG.4.1', 1456)]
+Query Position:  5608
+kmer:  ATTTGATTTTA
+
+Target Name:  [('STRG.21.2', 993)]
+Query Position:  5609
+kmer:  TTTGATTTTAC
+
+Target Name:  [('STRG.23.2', 2915)]
+Query Position:  5632
+kmer:  TTTTATATGCT
+
+Target Name:  [('STRG.23.2', 2916)]
+Query Position:  5633
+kmer:  TTTATATGCTG
+
+Target Name:  [('STRG.37.1', 789)]
+Query Position:  5636
+kmer:  ATATGCTGCTG
+
+Target Name:  [('STRG.46.1', 760)]
+Query Position:  5686
+kmer:  TTTTGAAGGAA
+
+Target Name:  [('STRG.46.1', 761)]
+Query Position:  5687
+kmer:  TTTGAAGGAAG
+
+Target Name:  [('STRG.53.2', 2019)]
+Query Position:  5733
+kmer:  TCTCAATAATT
+
+Target Name:  [('STRG.18.2', 16573), ('STRG.18.1', 16627)]
+Query Position:  5755
+kmer:  AGAGCGTCGCT
+
+Target Name:  [('STRG.18.2', 16573), ('STRG.18.1', 16627)]
+Query Position:  5755
+kmer:  AGAGCGTCGCT
+
+Target Name:  [('STRG.18.2', 16574), ('STRG.18.1', 16628)]
+Query Position:  5756
+kmer:  GAGCGTCGCTT
+
+Target Name:  [('STRG.18.2', 16574), ('STRG.18.1', 16628)]
+Query Position:  5756
+kmer:  GAGCGTCGCTT
+
+Target Name:  [('STRG.3.2', 1365), ('STRG.3.1', 982), ('STRG.3.3', 1218)]
+Query Position:  5780
+kmer:  ATTGCATTCCA
+
+Target Name:  [('STRG.3.2', 1365), ('STRG.3.1', 982), ('STRG.3.3', 1218)]
+Query Position:  5780
+kmer:  ATTGCATTCCA
+
+Target Name:  [('STRG.3.2', 1365), ('STRG.3.1', 982), ('STRG.3.3', 1218)]
+Query Position:  5780
+kmer:  ATTGCATTCCA
+
+Target Name:  [('STRG.1.1', 126)]
+Query Position:  5845
+kmer:  TCTGTGTGTTC
+
+Target Name:  [('STRG.55.1', 1305)]
+Query Position:  5864
+kmer:  ATTATTTTGTA
+
+Target Name:  [('STRG.27.1', 14)]
+Query Position:  5883
+kmer:  GCTTCAGCTTC
+
+Target Name:  [('STRG.13.2', 1152)]
+Query Position:  5888
+kmer:  AGCTTCGACTG
+
+Target Name:  [('STRG.13.2', 1153), ('STRG.48.1', 1091), ('STRG.48.2', 1091)]
+Query Position:  5889
+kmer:  GCTTCGACTGC
+
+Target Name:  [('STRG.13.2', 1153), ('STRG.48.1', 1091), ('STRG.48.2', 1091)]
+Query Position:  5889
+kmer:  GCTTCGACTGC
+
+Target Name:  [('STRG.13.2', 1153), ('STRG.48.1', 1091), ('STRG.48.2', 1091)]
+Query Position:  5889
+kmer:  GCTTCGACTGC
+
+Target Name:  [('STRG.5.1', 2537)]
+Query Position:  5907
+kmer:  CGTGAGCCATT
+
+Target Name:  [('STRG.12.1', 1086)]
+Query Position:  5953
+kmer:  GGCTGTGGATG
+
+Target Name:  [('STRG.34.1', 637)]
+Query Position:  5954
+kmer:  GCTGTGGATGA
+
+Target Name:  [('STRG.44.1', 2888), ('STRG.44.2', 2888)]
+Query Position:  5962
+kmer:  TGAGGATGTGG
+
+Target Name:  [('STRG.44.1', 2888), ('STRG.44.2', 2888)]
+Query Position:  5962
+kmer:  TGAGGATGTGG
+
+Target Name:  [('STRG.11.1', 702)]
+Query Position:  5973
+kmer:  CCACCAGCACA
+
+Target Name:  [('STRG.33.2', 3732)]
+Query Position:  5981
+kmer:  ACAAGAGTCTC
+
+Target Name:  [('STRG.31.1', 191), ('STRG.31.2', 191)]
+Query Position:  6019
+kmer:  TGGGTAAAACC
+
+Target Name:  [('STRG.31.1', 191), ('STRG.31.2', 191)]
+Query Position:  6019
+kmer:  TGGGTAAAACC
+
+Target Name:  [('STRG.5.1', 5132)]
+Query Position:  6028
+kmer:  CCCAACACACT
+
+Target Name:  [('STRG.44.1', 1456), ('STRG.44.2', 1456), ('STRG.60.1', 388)]
+Query Position:  6078
+kmer:  AGCTGATGGCC
+
+Target Name:  [('STRG.44.1', 1456), ('STRG.44.2', 1456), ('STRG.60.1', 388)]
+Query Position:  6078
+kmer:  AGCTGATGGCC
+
+Target Name:  [('STRG.44.1', 1456), ('STRG.44.2', 1456), ('STRG.60.1', 388)]
+Query Position:  6078
+kmer:  AGCTGATGGCC
+
+Target Name:  [('STRG.51.1', 1312)]
+Query Position:  6093
+kmer:  TCCACCACCGA
+
+Target Name:  [('STRG.51.1', 1313)]
+Query Position:  6094
+kmer:  CCACCACCGAT
+
+Target Name:  [('STRG.51.1', 1314)]
+Query Position:  6095
+kmer:  CACCACCGATG
+
+Target Name:  [('STRG.18.2', 5972), ('STRG.18.1', 6026)]
+Query Position:  6130
+kmer:  AAAGCGACAAG
+
+Target Name:  [('STRG.18.2', 5972), ('STRG.18.1', 6026)]
+Query Position:  6130
+kmer:  AAAGCGACAAG
+
+Target Name:  [('STRG.37.1', 597)]
+Query Position:  6179
+kmer:  CCCAAGGACGA
+
+Target Name:  [('STRG.37.1', 598)]
+Query Position:  6180
+kmer:  CCAAGGACGAG
+
+Target Name:  [('STRG.37.1', 599)]
+Query Position:  6181
+kmer:  CAAGGACGAGG
+
+Target Name:  [('STRG.37.1', 600)]
+Query Position:  6182
+kmer:  AAGGACGAGGA
+
+Target Name:  [('STRG.11.1', 248), ('STRG.37.1', 601)]
+Query Position:  6183
+kmer:  AGGACGAGGAG
+
+Target Name:  [('STRG.11.1', 248), ('STRG.37.1', 601)]
+Query Position:  6183
+kmer:  AGGACGAGGAG
+
+Target Name:  [('STRG.11.1', 249)]
+Query Position:  6184
+kmer:  GGACGAGGAGC
+
+Target Name:  [('STRG.33.1', 3098), ('STRG.33.2', 2915)]
+Query Position:  6185
+kmer:  GACGAGGAGCC
+
+Target Name:  [('STRG.33.1', 3098), ('STRG.33.2', 2915)]
+Query Position:  6185
+kmer:  GACGAGGAGCC
+
+Target Name:  [('STRG.33.1', 3099), ('STRG.33.2', 2916)]
+Query Position:  6186
+kmer:  ACGAGGAGCCG
+
+Target Name:  [('STRG.33.1', 3099), ('STRG.33.2', 2916)]
+Query Position:  6186
+kmer:  ACGAGGAGCCG
+
+Target Name:  [('STRG.31.1', 732), ('STRG.31.2', 732)]
+Query Position:  6206
+kmer:  GATGAAGGACG
+
+Target Name:  [('STRG.31.1', 732), ('STRG.31.2', 732)]
+Query Position:  6206
+kmer:  GATGAAGGACG
+
+Target Name:  [('STRG.60.1', 369)]
+Query Position:  6229
+kmer:  AAGGCGCGGGA
+
+Target Name:  [('STRG.60.1', 370)]
+Query Position:  6230
+kmer:  AGGCGCGGGAT
+
+Target Name:  [('STRG.31.2', 3391), ('STRG.31.3', 2301)]
+Query Position:  6243
+kmer:  CATTTGTTAAT
+
+Target Name:  [('STRG.31.2', 3391), ('STRG.31.3', 2301)]
+Query Position:  6243
+kmer:  CATTTGTTAAT
+
+Target Name:  [('STRG.57.1', 2409), ('STRG.57.2', 2409)]
+Query Position:  6259
+kmer:  GCACGTAAGCA
+
+Target Name:  [('STRG.57.1', 2409), ('STRG.57.2', 2409)]
+Query Position:  6259
+kmer:  GCACGTAAGCA
+
+Target Name:  [('STRG.55.1', 46)]
+Query Position:  6261
+kmer:  ACGTAAGCAAT
+
+Target Name:  [('STRG.53.1', 500), ('STRG.53.2', 500)]
+Query Position:  6282
+kmer:  AAGCGCATTCC
+
+Target Name:  [('STRG.53.1', 500), ('STRG.53.2', 500)]
+Query Position:  6282
+kmer:  AAGCGCATTCC
+
+Target Name:  [('STRG.4.1', 1336)]
+Query Position:  6299
+kmer:  CTTTAATGTAC
+
+Target Name:  [('STRG.14.1', 2999)]
+Query Position:  6318
+kmer:  GTTAACAAATT
+
+Target Name:  [('STRG.26.1', 788), ('STRG.26.2', 1810)]
+Query Position:  6352
+kmer:  AGGGAAAGGGG
+
+Target Name:  [('STRG.26.1', 788), ('STRG.26.2', 1810)]
+Query Position:  6352
+kmer:  AGGGAAAGGGG
+
+Target Name:  [('STRG.30.1', 281)]
+Query Position:  6415
+kmer:  TTCGGCGGCAT
+
+Target Name:  [('STRG.30.1', 282)]
+Query Position:  6416
+kmer:  TCGGCGGCATT
+
+Target Name:  [('STRG.14.1', 620)]
+Query Position:  6453
+kmer:  CGCATAAACAA
+
+Target Name:  [('STRG.56.1', 1146), ('STRG.56.2', 1146), ('STRG.56.3', 2344)]
+Query Position:  6457
+kmer:  TAAACAAATTA
+
+Target Name:  [('STRG.56.1', 1146), ('STRG.56.2', 1146), ('STRG.56.3', 2344)]
+Query Position:  6457
+kmer:  TAAACAAATTA
+
+Target Name:  [('STRG.56.1', 1146), ('STRG.56.2', 1146), ('STRG.56.3', 2344)]
+Query Position:  6457
+kmer:  TAAACAAATTA
+
+Target Name:  [('STRG.42.1', 1584), ('STRG.42.2', 2786)]
+Query Position:  6458
+kmer:  AAACAAATTAA
+
+Target Name:  [('STRG.42.1', 1584), ('STRG.42.2', 2786)]
+Query Position:  6458
+kmer:  AAACAAATTAA
+
+Target Name:  [('STRG.60.1', 1049)]
+Query Position:  6519
+kmer:  CAGCAAGGTGG
+
+Target Name:  [('STRG.31.3', 107)]
+Query Position:  6587
+kmer:  TTGGGAAAATT
+
+Target Name:  [('STRG.1.1', 2141)]
+Query Position:  6611
+kmer:  CGTGGTGTAAA
+
+Target Name:  [('STRG.1.1', 2142)]
+Query Position:  6612
+kmer:  GTGGTGTAAAT
+
+Target Name:  [('STRG.26.2', 21)]
+Query Position:  6664
+kmer:  CATAGGGCAAT
+
+Target Name:  [('STRG.40.1', 392)]
+Query Position:  6716
+kmer:  CGGACAAACGG
+
+Target Name:  [('STRG.40.1', 393)]
+Query Position:  6717
+kmer:  GGACAAACGGA
+
+Target Name:  [('STRG.7.1', 399), ('STRG.7.3', 274), ('STRG.7.4', 274), ('STRG.7.2', 247), ('STRG.7.5', 203), ('STRG.7.6', 323)]
+Query Position:  6718
+kmer:  GACAAACGGAC
+
+Target Name:  [('STRG.7.1', 399), ('STRG.7.3', 274), ('STRG.7.4', 274), ('STRG.7.2', 247), ('STRG.7.5', 203), ('STRG.7.6', 323)]
+Query Position:  6718
+kmer:  GACAAACGGAC
+
+Target Name:  [('STRG.7.1', 399), ('STRG.7.3', 274), ('STRG.7.4', 274), ('STRG.7.2', 247), ('STRG.7.5', 203), ('STRG.7.6', 323)]
+Query Position:  6718
+kmer:  GACAAACGGAC
+
+Target Name:  [('STRG.7.1', 399), ('STRG.7.3', 274), ('STRG.7.4', 274), ('STRG.7.2', 247), ('STRG.7.5', 203), ('STRG.7.6', 323)]
+Query Position:  6718
+kmer:  GACAAACGGAC
+
+Target Name:  [('STRG.7.1', 399), ('STRG.7.3', 274), ('STRG.7.4', 274), ('STRG.7.2', 247), ('STRG.7.5', 203), ('STRG.7.6', 323)]
+Query Position:  6718
+kmer:  GACAAACGGAC
+
+Target Name:  [('STRG.7.1', 399), ('STRG.7.3', 274), ('STRG.7.4', 274), ('STRG.7.2', 247), ('STRG.7.5', 203), ('STRG.7.6', 323)]
+Query Position:  6718
+kmer:  GACAAACGGAC
+
+Target Name:  [('STRG.7.1', 400), ('STRG.7.3', 275), ('STRG.7.4', 275), ('STRG.7.2', 248), ('STRG.7.5', 204), ('STRG.7.6', 324)]
+Query Position:  6719
+kmer:  ACAAACGGACA
+
+Target Name:  [('STRG.7.1', 400), ('STRG.7.3', 275), ('STRG.7.4', 275), ('STRG.7.2', 248), ('STRG.7.5', 204), ('STRG.7.6', 324)]
+Query Position:  6719
+kmer:  ACAAACGGACA
+
+Target Name:  [('STRG.7.1', 400), ('STRG.7.3', 275), ('STRG.7.4', 275), ('STRG.7.2', 248), ('STRG.7.5', 204), ('STRG.7.6', 324)]
+Query Position:  6719
+kmer:  ACAAACGGACA
+
+Target Name:  [('STRG.7.1', 400), ('STRG.7.3', 275), ('STRG.7.4', 275), ('STRG.7.2', 248), ('STRG.7.5', 204), ('STRG.7.6', 324)]
+Query Position:  6719
+kmer:  ACAAACGGACA
+
+Target Name:  [('STRG.7.1', 400), ('STRG.7.3', 275), ('STRG.7.4', 275), ('STRG.7.2', 248), ('STRG.7.5', 204), ('STRG.7.6', 324)]
+Query Position:  6719
+kmer:  ACAAACGGACA
+
+Target Name:  [('STRG.7.1', 400), ('STRG.7.3', 275), ('STRG.7.4', 275), ('STRG.7.2', 248), ('STRG.7.5', 204), ('STRG.7.6', 324)]
+Query Position:  6719
+kmer:  ACAAACGGACA
+
+Target Name:  [('STRG.32.2', 1038), ('STRG.32.1', 1038)]
+Query Position:  6722
+kmer:  AACGGACAAGC
+
+Target Name:  [('STRG.32.2', 1038), ('STRG.32.1', 1038)]
+Query Position:  6722
+kmer:  AACGGACAAGC
+
+Target Name:  [('STRG.1.1', 3810)]
+Query Position:  6741
+kmer:  AAACGAACGGA
+
+Target Name:  [('STRG.32.2', 1038), ('STRG.32.1', 1038)]
+Query Position:  6746
+kmer:  AACGGACAAGC
+
+Target Name:  [('STRG.32.2', 1038), ('STRG.32.1', 1038)]
+Query Position:  6746
+kmer:  AACGGACAAGC
+
+Target Name:  [('STRG.59.1', 2981), ('STRG.59.2', 3769)]
+Query Position:  6779
+kmer:  CATGGGCTTCA
+
+Target Name:  [('STRG.59.1', 2981), ('STRG.59.2', 3769)]
+Query Position:  6779
+kmer:  CATGGGCTTCA
+
+Target Name:  [('STRG.18.2', 11225), ('STRG.18.1', 11279)]
+Query Position:  6803
+kmer:  CTCACTTTGCG
+
+Target Name:  [('STRG.18.2', 11225), ('STRG.18.1', 11279)]
+Query Position:  6803
+kmer:  CTCACTTTGCG
+
+Target Name:  [('STRG.18.2', 11226), ('STRG.18.1', 11280)]
+Query Position:  6804
+kmer:  TCACTTTGCGG
+
+Target Name:  [('STRG.18.2', 11226), ('STRG.18.1', 11280)]
+Query Position:  6804
+kmer:  TCACTTTGCGG
+
+Target Name:  [('STRG.31.1', 993), ('STRG.31.2', 993)]
+Query Position:  6823
+kmer:  TCTTGAGCAAA
+
+Target Name:  [('STRG.31.1', 993), ('STRG.31.2', 993)]
+Query Position:  6823
+kmer:  TCTTGAGCAAA
+
+Target Name:  [('STRG.10.6', 384), ('STRG.10.4', 138)]
+Query Position:  6833
+kmer:  ATTGAAATTCT
+
+Target Name:  [('STRG.10.6', 384), ('STRG.10.4', 138)]
+Query Position:  6833
+kmer:  ATTGAAATTCT
+
+Target Name:  [('STRG.8.1', 627)]
+Query Position:  6857
+kmer:  CGTTTCCGCTT
+
+Target Name:  [('STRG.8.1', 628)]
+Query Position:  6858
+kmer:  GTTTCCGCTTC
+
+Target Name:  [('STRG.27.1', 3241)]
+Query Position:  6866
+kmer:  TTCGGAGGAAC
+
+Target Name:  [('STRG.27.1', 3242)]
+Query Position:  6867
+kmer:  TCGGAGGAACG
+
+Target Name:  [('STRG.20.3', 6755), ('STRG.20.1', 16473), ('STRG.20.2', 17058), ('STRG.27.1', 3243)]
+Query Position:  6868
+kmer:  CGGAGGAACGG
+
+Target Name:  [('STRG.20.3', 6755), ('STRG.20.1', 16473), ('STRG.20.2', 17058), ('STRG.27.1', 3243)]
+Query Position:  6868
+kmer:  CGGAGGAACGG
+
+Target Name:  [('STRG.20.3', 6755), ('STRG.20.1', 16473), ('STRG.20.2', 17058), ('STRG.27.1', 3243)]
+Query Position:  6868
+kmer:  CGGAGGAACGG
+
+Target Name:  [('STRG.20.3', 6755), ('STRG.20.1', 16473), ('STRG.20.2', 17058), ('STRG.27.1', 3243)]
+Query Position:  6868
+kmer:  CGGAGGAACGG
+
+Target Name:  [('STRG.20.3', 6756), ('STRG.20.1', 16474), ('STRG.20.2', 17059), ('STRG.27.1', 3244)]
+Query Position:  6869
+kmer:  GGAGGAACGGA
+
+Target Name:  [('STRG.20.3', 6756), ('STRG.20.1', 16474), ('STRG.20.2', 17059), ('STRG.27.1', 3244)]
+Query Position:  6869
+kmer:  GGAGGAACGGA
+
+Target Name:  [('STRG.20.3', 6756), ('STRG.20.1', 16474), ('STRG.20.2', 17059), ('STRG.27.1', 3244)]
+Query Position:  6869
+kmer:  GGAGGAACGGA
+
+Target Name:  [('STRG.20.3', 6756), ('STRG.20.1', 16474), ('STRG.20.2', 17059), ('STRG.27.1', 3244)]
+Query Position:  6869
+kmer:  GGAGGAACGGA
+
+Target Name:  [('STRG.27.1', 3245)]
+Query Position:  6870
+kmer:  GAGGAACGGAG
+
+Target Name:  [('STRG.2.1', 1364), ('STRG.2.2', 1364)]
+Query Position:  6886
+kmer:  AGCAATCCAGG
+
+Target Name:  [('STRG.2.1', 1364), ('STRG.2.2', 1364)]
+Query Position:  6886
+kmer:  AGCAATCCAGG
+
+Target Name:  [('STRG.8.1', 581)]
+Query Position:  6895
+kmer:  GGGGAGCTACG
+
+Target Name:  [('STRG.20.3', 4528), ('STRG.20.1', 14246), ('STRG.20.2', 14831)]
+Query Position:  6925
+kmer:  AATCTTGCAGG
+
+Target Name:  [('STRG.20.3', 4528), ('STRG.20.1', 14246), ('STRG.20.2', 14831)]
+Query Position:  6925
+kmer:  AATCTTGCAGG
+
+Target Name:  [('STRG.20.3', 4528), ('STRG.20.1', 14246), ('STRG.20.2', 14831)]
+Query Position:  6925
+kmer:  AATCTTGCAGG
+
+Target Name:  [('STRG.48.1', 252), ('STRG.48.2', 252)]
+Query Position:  6958
+kmer:  GCACTCGGTGT
+
+Target Name:  [('STRG.48.1', 252), ('STRG.48.2', 252)]
+Query Position:  6958
+kmer:  GCACTCGGTGT
+
+Target Name:  [('STRG.23.3', 319), ('STRG.23.1', 92), ('STRG.23.2', 92)]
+Query Position:  6984
+kmer:  AATTGCCGGCA
+
+Target Name:  [('STRG.23.3', 319), ('STRG.23.1', 92), ('STRG.23.2', 92)]
+Query Position:  6984
+kmer:  AATTGCCGGCA
+
+Target Name:  [('STRG.23.3', 319), ('STRG.23.1', 92), ('STRG.23.2', 92)]
+Query Position:  6984
+kmer:  AATTGCCGGCA
+
+Target Name:  [('STRG.59.3', 563), ('STRG.59.1', 563), ('STRG.59.2', 1351)]
+Query Position:  7028
+kmer:  CAGGGCCATGA
+
+Target Name:  [('STRG.59.3', 563), ('STRG.59.1', 563), ('STRG.59.2', 1351)]
+Query Position:  7028
+kmer:  CAGGGCCATGA
+
+Target Name:  [('STRG.59.3', 563), ('STRG.59.1', 563), ('STRG.59.2', 1351)]
+Query Position:  7028
+kmer:  CAGGGCCATGA
+
+Target Name:  [('STRG.42.1', 1395), ('STRG.42.2', 2597)]
+Query Position:  7038
+kmer:  AGTTCCGCCAG
+
+Target Name:  [('STRG.42.1', 1395), ('STRG.42.2', 2597)]
+Query Position:  7038
+kmer:  AGTTCCGCCAG
+
+Target Name:  [('STRG.6.1', 991)]
+Query Position:  7064
+kmer:  TTTACGCGAAT
+
+Target Name:  [('STRG.13.1', 2766)]
+Query Position:  7077
+kmer:  GCAGAGGACTT
+
+Target Name:  [('STRG.13.1', 2767)]
+Query Position:  7078
+kmer:  CAGAGGACTTG
+
+Target Name:  [('STRG.1.1', 3721)]
+Query Position:  7079
+kmer:  AGAGGACTTGG
+
+Target Name:  [('STRG.20.1', 3977), ('STRG.20.2', 3977)]
+Query Position:  7122
+kmer:  TTAAATCTTCT
+
+Target Name:  [('STRG.20.1', 3977), ('STRG.20.2', 3977)]
+Query Position:  7122
+kmer:  TTAAATCTTCT
+
+Target Name:  [('STRG.15.1', 1125)]
+Query Position:  7171
+kmer:  AGTATCTATAT
+
+Target Name:  [('STRG.14.1', 655)]
+Query Position:  7204
+kmer:  ATTTAAAGGAG
+
+Target Name:  [('STRG.22.1', 884)]
+Query Position:  7205
+kmer:  TTTAAAGGAGT
+
+Target Name:  [('STRG.48.1', 629), ('STRG.48.2', 629)]
+Query Position:  7221
+kmer:  AATTCAAAAAA
+
+Target Name:  [('STRG.48.1', 629), ('STRG.48.2', 629)]
+Query Position:  7221
+kmer:  AATTCAAAAAA
+
+Target Name:  [('STRG.22.1', 102)]
+Query Position:  7225
+kmer:  CAAAAAACTTT
+
+Target Name:  [('STRG.22.1', 91)]
+Query Position:  7226
+kmer:  AAAAAACTTTG
+
+Target Name:  [('STRG.4.1', 383)]
+Query Position:  7243
+kmer:  TTGTAGGTATT
+
+Target Name:  [('STRG.44.1', 2717), ('STRG.44.2', 2717)]
+Query Position:  7267
+kmer:  GATTATCAATC
+
+Target Name:  [('STRG.44.1', 2717), ('STRG.44.2', 2717)]
+Query Position:  7267
+kmer:  GATTATCAATC
+
+Target Name:  [('STRG.27.1', 2927)]
+Query Position:  7315
+kmer:  AGAGACATCTC
+
+Target Name:  [('STRG.8.1', 365)]
+Query Position:  7337
+kmer:  TCTTTTTCATT
+
+Target Name:  [('STRG.33.1', 712), ('STRG.33.2', 712)]
+Query Position:  7362
+kmer:  GAGATTTTAAA
+
+Target Name:  [('STRG.33.1', 712), ('STRG.33.2', 712)]
+Query Position:  7362
+kmer:  GAGATTTTAAA
+
+Target Name:  [('STRG.43.3', 1150)]
+Query Position:  7365
+kmer:  ATTTTAAAGCG
+
+Target Name:  [('STRG.42.1', 634), ('STRG.42.2', 1836)]
+Query Position:  7391
+kmer:  CAGTACCACCC
+
+Target Name:  [('STRG.42.1', 634), ('STRG.42.2', 1836)]
+Query Position:  7391
+kmer:  CAGTACCACCC
+
+Target Name:  [('STRG.42.1', 635), ('STRG.42.2', 1837)]
+Query Position:  7392
+kmer:  AGTACCACCCA
+
+Target Name:  [('STRG.42.1', 635), ('STRG.42.2', 1837)]
+Query Position:  7392
+kmer:  AGTACCACCCA
+
+Target Name:  [('STRG.42.1', 636), ('STRG.42.2', 1838)]
+Query Position:  7393
+kmer:  GTACCACCCAC
+
+Target Name:  [('STRG.42.1', 636), ('STRG.42.2', 1838)]
+Query Position:  7393
+kmer:  GTACCACCCAC
+
+Target Name:  [('STRG.54.1', 553)]
+Query Position:  7429
+kmer:  CGTGTCCTGTG
+
+Target Name:  [('STRG.44.1', 1753), ('STRG.44.2', 1753)]
+Query Position:  7439
+kmer:  GAGCAGGACCT
+
+Target Name:  [('STRG.44.1', 1753), ('STRG.44.2', 1753)]
+Query Position:  7439
+kmer:  GAGCAGGACCT
+
+Target Name:  [('STRG.50.1', 365)]
+Query Position:  7454
+kmer:  GCAGTTTGCCG
+
+Target Name:  [('STRG.20.1', 3325), ('STRG.20.2', 3325)]
+Query Position:  7460
+kmer:  TGCCGTGGCCT
+
+Target Name:  [('STRG.20.1', 3325), ('STRG.20.2', 3325)]
+Query Position:  7460
+kmer:  TGCCGTGGCCT
+
+Target Name:  [('STRG.23.2', 2962)]
+Query Position:  7498
+kmer:  ACTTGACTGCC
+
+Target Name:  [('STRG.23.2', 2963)]
+Query Position:  7499
+kmer:  CTTGACTGCCA
+
+Target Name:  [('STRG.52.1', 1499)]
+Query Position:  7508
+kmer:  CAGCTGGCATC
+
+Target Name:  [('STRG.52.1', 1500)]
+Query Position:  7509
+kmer:  AGCTGGCATCT
+
+Target Name:  [('STRG.20.1', 9584), ('STRG.20.2', 9584)]
+Query Position:  7526
+kmer:  CCGGAGCGTCC
+
+Target Name:  [('STRG.20.1', 9584), ('STRG.20.2', 9584)]
+Query Position:  7526
+kmer:  CCGGAGCGTCC
+
+Target Name:  [('STRG.43.3', 996), ('STRG.43.1', 967), ('STRG.43.2', 963)]
+Query Position:  7563
+kmer:  CAAAGTGGCCA
+
+Target Name:  [('STRG.43.3', 996), ('STRG.43.1', 967), ('STRG.43.2', 963)]
+Query Position:  7563
+kmer:  CAAAGTGGCCA
+
+Target Name:  [('STRG.43.3', 996), ('STRG.43.1', 967), ('STRG.43.2', 963)]
+Query Position:  7563
+kmer:  CAAAGTGGCCA
+
+Target Name:  [('STRG.18.2', 11738), ('STRG.18.1', 11792)]
+Query Position:  7565
+kmer:  AAGTGGCCAGC
+
+Target Name:  [('STRG.18.2', 11738), ('STRG.18.1', 11792)]
+Query Position:  7565
+kmer:  AAGTGGCCAGC
+
+Target Name:  [('STRG.42.1', 1451), ('STRG.42.2', 2653)]
+Query Position:  7569
+kmer:  GGCCAGCAGTT
+
+Target Name:  [('STRG.42.1', 1451), ('STRG.42.2', 2653)]
+Query Position:  7569
+kmer:  GGCCAGCAGTT
+
+Target Name:  [('STRG.36.1', 2274)]
+Query Position:  7570
+kmer:  GCCAGCAGTTG
+
+Target Name:  [('STRG.48.1', 1706), ('STRG.48.2', 1706)]
+Query Position:  7571
+kmer:  CCAGCAGTTGT
+
+Target Name:  [('STRG.48.1', 1706), ('STRG.48.2', 1706)]
+Query Position:  7571
+kmer:  CCAGCAGTTGT
+
+Target Name:  [('STRG.48.1', 1707), ('STRG.48.2', 1707)]
+Query Position:  7572
+kmer:  CAGCAGTTGTG
+
+Target Name:  [('STRG.48.1', 1707), ('STRG.48.2', 1707)]
+Query Position:  7572
+kmer:  CAGCAGTTGTG
+
+Target Name:  [('STRG.5.1', 2610)]
+Query Position:  7599
+kmer:  TTGGTGGACAA
+
+Target Name:  [('STRG.20.1', 5936), ('STRG.20.2', 5936)]
+Query Position:  7625
+kmer:  GCAAATGATGA
+
+Target Name:  [('STRG.20.1', 5936), ('STRG.20.2', 5936)]
+Query Position:  7625
+kmer:  GCAAATGATGA
+
+Target Name:  [('STRG.46.1', 911)]
+Query Position:  7627
+kmer:  AAATGATGATG
+
+Target Name:  [('STRG.48.1', 1337), ('STRG.48.2', 1337)]
+Query Position:  7630
+kmer:  TGATGATGGAC
+
+Target Name:  [('STRG.48.1', 1337), ('STRG.48.2', 1337)]
+Query Position:  7630
+kmer:  TGATGATGGAC
+
+Target Name:  [('STRG.11.1', 750), ('STRG.20.1', 1844), ('STRG.20.2', 1844)]
+Query Position:  7670
+kmer:  CAACAAACGCA
+
+Target Name:  [('STRG.11.1', 750), ('STRG.20.1', 1844), ('STRG.20.2', 1844)]
+Query Position:  7670
+kmer:  CAACAAACGCA
+
+Target Name:  [('STRG.11.1', 750), ('STRG.20.1', 1844), ('STRG.20.2', 1844)]
+Query Position:  7670
+kmer:  CAACAAACGCA
+
+Target Name:  [('STRG.38.1', 844)]
+Query Position:  7700
+kmer:  TTTGCCGCAGA
+
+Target Name:  [('STRG.31.1', 2913), ('STRG.31.2', 2913), ('STRG.31.3', 1823)]
+Query Position:  7715
+kmer:  AATTTTCTGCA
+
+Target Name:  [('STRG.31.1', 2913), ('STRG.31.2', 2913), ('STRG.31.3', 1823)]
+Query Position:  7715
+kmer:  AATTTTCTGCA
+
+Target Name:  [('STRG.31.1', 2913), ('STRG.31.2', 2913), ('STRG.31.3', 1823)]
+Query Position:  7715
+kmer:  AATTTTCTGCA
+
+Target Name:  [('STRG.20.3', 4552), ('STRG.20.1', 14270), ('STRG.20.2', 14855)]
+Query Position:  7772
+kmer:  TCGCTGGCTGC
+
+Target Name:  [('STRG.20.3', 4552), ('STRG.20.1', 14270), ('STRG.20.2', 14855)]
+Query Position:  7772
+kmer:  TCGCTGGCTGC
+
+Target Name:  [('STRG.20.3', 4552), ('STRG.20.1', 14270), ('STRG.20.2', 14855)]
+Query Position:  7772
+kmer:  TCGCTGGCTGC
+
+Target Name:  [('STRG.51.1', 275)]
+Query Position:  7774
+kmer:  GCTGGCTGCAC
+
+Target Name:  [('STRG.51.1', 276)]
+Query Position:  7775
+kmer:  CTGGCTGCACA
+
+Target Name:  [('STRG.18.1', 17500)]
+Query Position:  7787
+kmer:  ATTTAAAAAGA
+
+Target Name:  [('STRG.18.1', 17501)]
+Query Position:  7788
+kmer:  TTTAAAAAGAA
+
+Target Name:  [('STRG.18.1', 17502)]
+Query Position:  7789
+kmer:  TTAAAAAGAAA
+
+Target Name:  [('STRG.15.1', 80)]
+Query Position:  7791
+kmer:  AAAAAGAAAAA
+
+Target Name:  [('STRG.31.1', 2633), ('STRG.31.2', 2633), ('STRG.31.3', 1543)]
+Query Position:  7792
+kmer:  AAAAGAAAAAC
+
+Target Name:  [('STRG.31.1', 2633), ('STRG.31.2', 2633), ('STRG.31.3', 1543)]
+Query Position:  7792
+kmer:  AAAAGAAAAAC
+
+Target Name:  [('STRG.31.1', 2633), ('STRG.31.2', 2633), ('STRG.31.3', 1543)]
+Query Position:  7792
+kmer:  AAAAGAAAAAC
+
+Target Name:  [('STRG.31.1', 2634), ('STRG.31.2', 2634), ('STRG.31.3', 1544)]
+Query Position:  7793
+kmer:  AAAGAAAAACA
+
+Target Name:  [('STRG.31.1', 2634), ('STRG.31.2', 2634), ('STRG.31.3', 1544)]
+Query Position:  7793
+kmer:  AAAGAAAAACA
+
+Target Name:  [('STRG.31.1', 2634), ('STRG.31.2', 2634), ('STRG.31.3', 1544)]
+Query Position:  7793
+kmer:  AAAGAAAAACA
+
+Target Name:  [('STRG.20.3', 3124), ('STRG.20.1', 12842), ('STRG.20.2', 13427), ('STRG.31.1', 2635), ('STRG.31.2', 2635), ('STRG.31.3', 1545)]
+Query Position:  7794
+kmer:  AAGAAAAACAA
+
+Target Name:  [('STRG.20.3', 3124), ('STRG.20.1', 12842), ('STRG.20.2', 13427), ('STRG.31.1', 2635), ('STRG.31.2', 2635), ('STRG.31.3', 1545)]
+Query Position:  7794
+kmer:  AAGAAAAACAA
+
+Target Name:  [('STRG.20.3', 3124), ('STRG.20.1', 12842), ('STRG.20.2', 13427), ('STRG.31.1', 2635), ('STRG.31.2', 2635), ('STRG.31.3', 1545)]
+Query Position:  7794
+kmer:  AAGAAAAACAA
+
+Target Name:  [('STRG.20.3', 3124), ('STRG.20.1', 12842), ('STRG.20.2', 13427), ('STRG.31.1', 2635), ('STRG.31.2', 2635), ('STRG.31.3', 1545)]
+Query Position:  7794
+kmer:  AAGAAAAACAA
+
+Target Name:  [('STRG.20.3', 3124), ('STRG.20.1', 12842), ('STRG.20.2', 13427), ('STRG.31.1', 2635), ('STRG.31.2', 2635), ('STRG.31.3', 1545)]
+Query Position:  7794
+kmer:  AAGAAAAACAA
+
+Target Name:  [('STRG.20.3', 3124), ('STRG.20.1', 12842), ('STRG.20.2', 13427), ('STRG.31.1', 2635), ('STRG.31.2', 2635), ('STRG.31.3', 1545)]
+Query Position:  7794
+kmer:  AAGAAAAACAA
+
+Target Name:  [('STRG.18.2', 14092), ('STRG.18.1', 14146), ('STRG.20.3', 3125), ('STRG.20.1', 12843), ('STRG.20.2', 13428)]
+Query Position:  7795
+kmer:  AGAAAAACAAT
+
+Target Name:  [('STRG.18.2', 14092), ('STRG.18.1', 14146), ('STRG.20.3', 3125), ('STRG.20.1', 12843), ('STRG.20.2', 13428)]
+Query Position:  7795
+kmer:  AGAAAAACAAT
+
+Target Name:  [('STRG.18.2', 14092), ('STRG.18.1', 14146), ('STRG.20.3', 3125), ('STRG.20.1', 12843), ('STRG.20.2', 13428)]
+Query Position:  7795
+kmer:  AGAAAAACAAT
+
+Target Name:  [('STRG.18.2', 14092), ('STRG.18.1', 14146), ('STRG.20.3', 3125), ('STRG.20.1', 12843), ('STRG.20.2', 13428)]
+Query Position:  7795
+kmer:  AGAAAAACAAT
+
+Target Name:  [('STRG.18.2', 14092), ('STRG.18.1', 14146), ('STRG.20.3', 3125), ('STRG.20.1', 12843), ('STRG.20.2', 13428)]
+Query Position:  7795
+kmer:  AGAAAAACAAT
+
+Target Name:  [('STRG.20.3', 3126), ('STRG.20.1', 12844), ('STRG.20.2', 13429), ('STRG.51.1', 524)]
+Query Position:  7796
+kmer:  GAAAAACAATT
+
+Target Name:  [('STRG.20.3', 3126), ('STRG.20.1', 12844), ('STRG.20.2', 13429), ('STRG.51.1', 524)]
+Query Position:  7796
+kmer:  GAAAAACAATT
+
+Target Name:  [('STRG.20.3', 3126), ('STRG.20.1', 12844), ('STRG.20.2', 13429), ('STRG.51.1', 524)]
+Query Position:  7796
+kmer:  GAAAAACAATT
+
+Target Name:  [('STRG.20.3', 3126), ('STRG.20.1', 12844), ('STRG.20.2', 13429), ('STRG.51.1', 524)]
+Query Position:  7796
+kmer:  GAAAAACAATT
+
+Target Name:  [('STRG.20.3', 3127), ('STRG.20.1', 12845), ('STRG.20.2', 13430)]
+Query Position:  7797
+kmer:  AAAAACAATTG
+
+Target Name:  [('STRG.20.3', 3127), ('STRG.20.1', 12845), ('STRG.20.2', 13430)]
+Query Position:  7797
+kmer:  AAAAACAATTG
+
+Target Name:  [('STRG.20.3', 3127), ('STRG.20.1', 12845), ('STRG.20.2', 13430)]
+Query Position:  7797
+kmer:  AAAAACAATTG
+
+Target Name:  [('STRG.20.3', 3128), ('STRG.20.1', 12846), ('STRG.20.2', 13431)]
+Query Position:  7798
+kmer:  AAAACAATTGC
+
+Target Name:  [('STRG.20.3', 3128), ('STRG.20.1', 12846), ('STRG.20.2', 13431)]
+Query Position:  7798
+kmer:  AAAACAATTGC
+
+Target Name:  [('STRG.20.3', 3128), ('STRG.20.1', 12846), ('STRG.20.2', 13431)]
+Query Position:  7798
+kmer:  AAAACAATTGC
+
+Target Name:  [('STRG.22.1', 1235)]
+Query Position:  7804
+kmer:  ATTGCCGAAAA
+
+Target Name:  [('STRG.56.3', 1348)]
+Query Position:  7816
+kmer:  CCATTGCAATT
+
+Target Name:  [('STRG.56.3', 1349)]
+Query Position:  7817
+kmer:  CATTGCAATTT
+
+Target Name:  [('STRG.9.1', 1170), ('STRG.9.2', 1170), ('STRG.9.3', 1390)]
+Query Position:  7839
+kmer:  GGCAAAGACAA
+
+Target Name:  [('STRG.9.1', 1170), ('STRG.9.2', 1170), ('STRG.9.3', 1390)]
+Query Position:  7839
+kmer:  GGCAAAGACAA
+
+Target Name:  [('STRG.9.1', 1170), ('STRG.9.2', 1170), ('STRG.9.3', 1390)]
+Query Position:  7839
+kmer:  GGCAAAGACAA
+
+Target Name:  [('STRG.50.1', 245)]
+Query Position:  7856
+kmer:  CGAGCAAATAA
+
+Target Name:  [('STRG.50.1', 246)]
+Query Position:  7857
+kmer:  GAGCAAATAAT
+
+Target Name:  [('STRG.50.1', 247)]
+Query Position:  7858
+kmer:  AGCAAATAATC
+
+Target Name:  [('STRG.2.1', 2056), ('STRG.2.2', 2056)]
+Query Position:  7866
+kmer:  ATCGCAGGCGA
+
+Target Name:  [('STRG.2.1', 2056), ('STRG.2.2', 2056)]
+Query Position:  7866
+kmer:  ATCGCAGGCGA
+
+Target Name:  [('STRG.20.1', 4631), ('STRG.20.2', 4631)]
+Query Position:  7883
+kmer:  AGCGAAGTGGA
+
+Target Name:  [('STRG.20.1', 4631), ('STRG.20.2', 4631)]
+Query Position:  7883
+kmer:  AGCGAAGTGGA
+
+Target Name:  [('STRG.13.2', 502)]
+Query Position:  7886
+kmer:  GAAGTGGAGTG
+
+Target Name:  [('STRG.13.2', 503)]
+Query Position:  7887
+kmer:  AAGTGGAGTGG
+
+Target Name:  [('STRG.13.2', 504)]
+Query Position:  7888
+kmer:  AGTGGAGTGGA
+
+Target Name:  [('STRG.13.2', 505)]
+Query Position:  7889
+kmer:  GTGGAGTGGAG
+
+Target Name:  [('STRG.13.2', 504)]
+Query Position:  7893
+kmer:  AGTGGAGTGGA
+
+Target Name:  [('STRG.13.2', 505)]
+Query Position:  7894
+kmer:  GTGGAGTGGAG
+
+Target Name:  [('STRG.13.2', 506)]
+Query Position:  7895
+kmer:  TGGAGTGGAGC
+
+Target Name:  [('STRG.13.2', 507)]
+Query Position:  7896
+kmer:  GGAGTGGAGCG
+
+Target Name:  [('STRG.57.1', 1967), ('STRG.57.2', 1967)]
+Query Position:  7944
+kmer:  GGAAACGGAAA
+
+Target Name:  [('STRG.57.1', 1967), ('STRG.57.2', 1967)]
+Query Position:  7944
+kmer:  GGAAACGGAAA
+
+Target Name:  [('STRG.20.1', 3225), ('STRG.20.2', 3225)]
+Query Position:  7970
+kmer:  CGAATTCGCAC
+
+Target Name:  [('STRG.20.1', 3225), ('STRG.20.2', 3225)]
+Query Position:  7970
+kmer:  CGAATTCGCAC
+
