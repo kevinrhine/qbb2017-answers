@@ -1,0 +1,41 @@
+
+
+Sequencing Machines
+
+- Hiseq 4
+- PacBio Sequel single molecule real time sequencer
+	- tethers DNA to bottom well, monitors DNA synthesis by fluor label release
+- Oxford nanopore (handheld sequencer)
+	- DNA fed through pore that uses electrochemical signaling to monitor base addition
+	- 50 - 100 kb max
+- Illumina
+	- 100 - 400 bp usually
+
+Shotgun Sequencing
+
+- String problem
+	- All fragments are parts of the original string (i.e. DNA molecule)
+	- There are infinitely many possible superstring (a string that contains every read as a substring)
+	- Which superstring do we want?
+	- First, the shortest possible length
+	
+- Graph problem
+	- Hamiltonian Cycle: Visit each vertex (node) once
+		- Difficult to accomplish 
+	- Konigsberg bridge problem
+		- Cross each edge once
+		- Path must have exactly zero or two nodes of odd degree
+		- Shortest path that visits each vertex exactly once
+		- No efficient solution -- takes too much time because it requires exponential functions
+		- Doesn't allow for errors
+	- Strategy
+		- Overlap-layout-consensus
+		- Overlap: find potentially overlapping reads
+		- Layout: order the reads
+		- How can we find high scoring non-exact matches?
+		- Find best match between a suffix of a read at prefix and suffix
+	- Problem: strategy is a greedy algorithm
+		- Start with where are the best matching reads?
+		- Problem: Makes trees or branches
+	- Updated strategy: sort edges by weight, only add if it doesn't branch
+

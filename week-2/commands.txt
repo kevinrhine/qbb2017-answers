@@ -1,0 +1,9 @@
+./velveth ~/qbb2017-answers/week-2/ 31 {-fastq -shortpaired -separate reads_low_1.fastq reads_low_2.fastq}
+
+velvetg ~/qbb2017-answers/week-2/align1/
+
+/usr/local/bin/spades.py --12 reads_low_1.fastq --12 reads_low_2.fastq --only-assembler -t 100 -o align1_spades
+
+./contig-analysis.py ~/qbb2017-answers/week-2/align1/contigs.fa > align1_ND50
+
+lastz ~/qbb2017-answers/week-2/reference.fasta ~/qbb2017-answers/week-2/align1/contigs.fa --chain --step=20 --nogapped --format=general:start1,start2,end1,end2,size2,name2 --output=align1_dotplot.tsv
