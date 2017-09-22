@@ -7,3 +7,7 @@ velvetg ~/qbb2017-answers/week-2/align1/
 ./contig-analysis.py ~/qbb2017-answers/week-2/align1/contigs.fa > align1_ND50
 
 lastz ~/qbb2017-answers/week-2/reference.fasta ~/qbb2017-answers/week-2/align1/contigs.fa --chain --step=20 --nogapped --format=general:start1,start2,end1,end2,size2,name2 --output=align1_dotplot.tsv
+
+./dotplot.py align1_dotplot.tsv align1_dotplot
+
+/usr/local/bin/quast.py -o ~/qbb2017-answers/week-2/ ~/qbb2017-answers/week-2/align1/contigs.fa ~/qbb2017-answers/week-2/align1_spades/contigs.fasta ~/qbb2017-answers/week-2/align2/contigs.fasta ~/qbb2017-answers/week-2/align3/contigs.fasta ~/qbb2017-answers/week-2/align4/contigs.fasta

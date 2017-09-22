@@ -1,0 +1,22 @@
+Assembly	align1_contigs	align1_spades_contigs	align2_contigs	align3_contigs	align4_contigs
+# contigs (>= 0 bp)	305	123	9	2	2
+# contigs (>= 1000 bp)	0	3	9	1	1
+# contigs (>= 5000 bp)	0	0	9	1	1
+# contigs (>= 10000 bp)	0	0	9	1	1
+# contigs (>= 25000 bp)	0	0	3	1	1
+# contigs (>= 50000 bp)	0	0	0	1	1
+Total length (>= 0 bp)	56973	46717	206227	100026	100026
+Total length (>= 1000 bp)	0	3514	206227	99915	99915
+Total length (>= 5000 bp)	0	0	206227	99915	99915
+Total length (>= 10000 bp)	0	0	206227	99915	99915
+Total length (>= 25000 bp)	0	0	90464	99915	99915
+Total length (>= 50000 bp)	0	0	0	99915	99915
+# contigs	11	19	9	1	1
+Largest contig	998	1409	34018	99915	99915
+Total length	7243	14250	206227	99915	99915
+GC (%)	50.71	51.43	52.33	52.58	52.58
+N50	632	718	23933	99915	99915
+N75	542	587	20800	99915	99915
+L50	5	8	4	1	1
+L75	8	13	6	1	1
+# N's per 100 kbp	0.00	0.00	0.00	0.00	0.00
