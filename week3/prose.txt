@@ -1,0 +1,3 @@
+For three of my top 5 hits, snpEff could not find a matching chromosome, so it is difficult to evaluate where those SNPs would be located and how they would affect the organism, if at all.
+
+Both of the other two top hits are in regions of the yeast genome that are believed to be non-coding. Specifically, they are adjacent to the yeast 25S rRNA gene. Often, these regions are used in metagenomic sequence identification because they tend to have high sequence variability from species-to-species. It stands to reason that individuals within a population would also have high sequence variability, even if there is no putative effect on the organism.

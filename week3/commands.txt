@@ -1,0 +1,23 @@
+bwa mem -R -o 09.sam ~/qbb2017-answers/week3/S288C_reference_genomeR64-2-1_20150113/S288C_reference_sequence_R64-2-1_20150113.fsa ~qbb2017-answers/week3/A01_09.fastq
+
+for file in ~/qbb2017-answers/week3/strains/*.fastq; 
+	do 
+		filename=${file##*/}
+		bwa mem -R '@RG\tID:${filename}\' -o ~/qbb2017-answers/week3/sam/'${filename}'.sam ~/qbb2017-answers/week3/sacCer3.fa ${file}; 
+done
+
+for file in ~/qbb2017-answers/week3/strains/*.fastq; do filename=${file##*/}; bwa mem -R '@RG\tID:${filename}\tSM:bar' -o ~/qbb2017-answers/week3/sam/${filename}.sam ~/qbb2017-answers/week3/sacCer3.fa ${file}; done
+
+for file in ~/qbb2017-answers/week3/sam/*.sam; do filename=${file##*/}; samtools view -bS ${file} | samtools sort - -o ~/qbb2017-answers/week3/bai/${filename}.bai; done
+
+freebayes -f sacCer3.fa -b ~/qbb2017-answers/week3/bai/* -v sample.vcf
+
+vcffilter -f "DP > 100" sample.vcf > sample_filtered.vcf
+
+snpEff R64-1-1.86 sample_filtered.vcf > snpEff_sample.vcf
+
+grep -v "##" snpEff_sample.vcf > snpEff_sample_noheader.vcf
+
+sort -k 6 -r -n snpEff_sample_noheader.vcf > sample_sorted.vcf
+
+less -S sample_sorted.vcf | head -5 > sample_sorted_top5.vcf
