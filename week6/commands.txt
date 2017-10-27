@@ -1,0 +1,21 @@
+bowtie2-build chr19.fa index
+
+bowtie2 -x index -U input_G1E.fastq -S input_G1E.sam
+
+samtools view -bS input_G1E.sam -o input_G1E.bam
+
+samtools sort input_G1E.bam -o input_G1E.bam.sorted
+
+macs2 callpeak -t CTCF_G1E.bam.sorted -c input_G1E.bam.sorted -f BAM -g mm -n G1E -B -q 0.01
+
+bedtools intersect -v -a G1E_peaks.narrowPeak -b ER4_peaks.narrowPeak | head -100 >  diff_G1E.bed 
+
+bedtools intersect -v -a ER4_peaks.narrowPeak -b G1E_peaks.narrowPeak | head -100 > diff_ER4.bed
+
+brew install cpanminus; cpanm install XML::Simple
+
+sort -n -r -k 9 ER4_peaks.narrowPeak | head -n 100 > ER4_sorted.narrowpeak
+
+bedtools getfasta -fi chr19.fa -bed ER4_sorted.narrowpeak > ER4_sorted_fasta.fa
+
+meme-chip -meme-maxw 20 -db motif_databases/JASPAR/JASPAR_CORE_2016_vertebrates.meme ER4_sorted_fasta.fa
