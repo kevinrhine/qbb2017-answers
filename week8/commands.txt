@@ -1,0 +1,7 @@
+hifive 5c-complete express -P NORA -C Nora_ESC_male_E14.counts Nora_Primers.bed
+
+hifive 5c-heatmap NORA.fcp NORA_noCTCF_fragment.heat -i NORA_noCTCF_fragment.png -d fragment
+
+hifive 5c-heatmap NORA.fcp -b 0 -d enrichment -a compact -F npz nora_ctcf
+
+./ctcf.py ctcf_peaks.tsv Nora_Primers.bed > TopCTCFHits.txt
